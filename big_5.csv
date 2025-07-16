@@ -1,0 +1,1901 @@
+Review Text,O,C,E,A,N
+"The product was amazing, better than I expected!",0.85,0.9,0.95,0.9,0.1
+"Customer service was useless, no help at all.",0.3,0.3,0.2,0.2,0.9
+"Average quality, nothing impressive.",0.4,0.5,0.4,0.5,0.4
+"Very creative packaging, I loved the effort.",0.95,0.8,0.8,0.9,0.1
+"They delivered on time, super professional.",0.6,0.95,0.8,0.9,0.2
+Late delivery and poor packaging.,0.3,0.4,0.3,0.3,0.8
+"The color was vibrant and unique, I liked it.",0.9,0.7,0.7,0.8,0.2
+I'm not satisfied. I expected more.,0.4,0.4,0.3,0.4,0.6
+"Very polite staff, quick resolution.",0.7,0.9,0.9,0.95,0.1
+"No response to my complaint, disappointed.",0.2,0.3,0.2,0.2,0.9
+Fantastic design and usability!,0.9,0.85,0.85,0.9,0.2
+"Does the job, but not worth the price.",0.5,0.5,0.4,0.5,0.5
+Super friendly and understanding staff!,0.8,0.9,0.95,0.95,0.1
+"Not the best experience, sadly.",0.3,0.4,0.3,0.3,0.7
+I’m amazed by the speed and accuracy.,0.85,0.9,0.9,0.95,0.1
+Received a damaged item. Not happy.,0.2,0.3,0.2,0.2,0.85
+Top-notch materials used. Feels premium.,0.75,0.95,0.85,0.9,0.2
+Had to return it. Didn’t meet my needs.,0.4,0.5,0.3,0.5,0.6
+They listened carefully and acted fast.,0.8,0.9,0.95,0.95,0.1
+"The site was confusing, had to call support.",0.3,0.4,0.3,0.3,0.75
+"Innovative features, really surprised me.",0.95,0.85,0.9,0.9,0.1
+Package was open when I got it. Terrible.,0.2,0.3,0.2,0.2,0.9
+I'm impressed by the simplicity of use.,0.8,0.8,0.9,0.95,0.2
+Still waiting for a refund. Frustrated.,0.2,0.3,0.2,0.2,0.85
+Fast replies and clear communication.,0.7,0.9,0.9,0.95,0.1
+Misleading description on the website.,0.2,0.3,0.3,0.2,0.8
+Love how they handle everything smoothly.,0.85,0.9,0.95,0.95,0.1
+"The quality is just okay, not special.",0.5,0.5,0.4,0.5,0.4
+"Efficient, helpful, and proactive staff.",0.8,0.95,0.95,0.95,0.2
+Shipping took forever. Not ordering again.,0.2,0.2,0.2,0.2,0.85
+Product looks even better in real life!,0.9,0.9,0.9,0.9,0.1
+"Terrible smell, had to throw it away.",0.1,0.2,0.1,0.1,0.95
+Design is modern and creative.,0.9,0.9,0.85,0.85,0.1
+"No instructions inside, confusing.",0.3,0.3,0.2,0.3,0.9
+Well-packed and arrived on time.,0.7,0.95,0.9,0.95,0.1
+Felt ignored during support chat.,0.2,0.2,0.2,0.2,0.9
+"Elegant and simple, really nice.",0.85,0.95,0.95,0.95,0.1
+Bad experience overall. Not worth it.,0.2,0.3,0.3,0.3,0.8
+Very impressed with the professionalism.,0.9,0.9,0.95,0.95,0.1
+"Nothing to complain about, satisfied.",0.6,0.9,0.7,0.8,0.2
+Shocking quality. So bad.,0.1,0.2,0.1,0.1,0.95
+Practical and intuitive interface.,0.85,0.9,0.9,0.95,0.1
+Zero stars if I could. Awful service.,0.5,0.4,0.4,0.4,0.5
+I love how smooth everything went.,0.9,0.95,0.95,0.95,0.1
+"It’s not bad, just not for me.",0.1,0.2,0.1,0.1,0.95
+Gorgeous look and sturdy material.,0.85,0.9,0.9,0.95,0.1
+Worst customer support I’ve seen.,0.3,0.3,0.3,0.3,0.7
+They handled my issue kindly.,0.9,0.9,0.95,0.95,0.1
+Totally underwhelmed by the result.,0.1,0.2,0.1,0.1,0.95
+Great effort in the design and packaging.,0.8,0.9,0.9,0.95,0.1
+Terrible from start to finish.,0.1,0.2,0.1,0.1,0.9
+Friendly delivery guy and nice box.,0.85,0.95,0.9,0.95,0.1
+Broken on arrival. Very upset.,0.2,0.3,0.2,0.3,0.85
+I can see the care in this product.,0.9,0.95,0.95,0.95,0.1
+Feels cheap and flimsy.,0.2,0.3,0.3,0.2,0.8
+Appreciate the eco-friendly packaging.,0.85,0.95,0.9,0.95,0.1
+Too complicated to use.,0.2,0.3,0.3,0.3,0.8
+Loved the creativity of the features.,0.9,0.95,0.95,0.95,0.1
+Not worth the price at all.,0.1,0.2,0.1,0.1,0.95
+Completely met my expectations.,0.95,0.95,0.95,0.95,0.1
+Missing items in the box.,0.2,0.2,0.2,0.2,0.85
+Product exceeded what I hoped for.,0.95,0.95,0.95,0.95,0.1
+Too fragile. Broke after 2 uses.,0.2,0.3,0.2,0.2,0.85
+Excellent craftsmanship and feel.,0.9,0.95,0.9,0.95,0.1
+Very generic and boring.,0.8,0.9,0.8,0.9,0.2
+Feels like a luxury item.,0.4,0.5,0.5,0.5,0.5
+Had issues but they fixed them fast.,0.95,0.95,0.95,0.95,0.1
+"Fake brand, poor imitation.",0.2,0.3,0.2,0.2,0.85
+"Elegant, minimal and effective.",0.95,0.95,0.95,0.95,0.1
+They kept me informed the whole time.,0.9,0.95,0.9,0.95,0.1
+It’s fine. Just average.,0.9,0.95,0.95,0.95,0.1
+Misplaced my order. Delayed response.,0.2,0.3,0.2,0.2,0.9
+"Exciting to open, great first impression.",0.95,0.95,0.95,0.95,0.1
+Worst brand experience I’ve had.,0.9,0.95,0.95,0.95,0.1
+Classy and well-thought-out.,0.2,0.3,0.2,0.2,0.85
+They were very patient with me.,0.9,0.95,0.95,0.95,0.1
+False advertising. Very disappointed.,0.1,0.2,0.1,0.1,0.95
+Nice texture and high-end feel.,0.95,0.95,0.95,0.95,0.1
+Never received my package.,0.5,0.5,0.5,0.5,0.5
+I love it. Would buy again!,0.9,0.95,0.95,0.95,0.1
+Not user-friendly at all.,0.2,0.3,0.2,0.2,0.9
+Super stylish and sleek.,0.85,0.9,0.9,0.9,0.1
+Felt cheap and rushed.,0.2,0.3,0.2,0.2,0.95
+Nothing new or interesting.,0.9,0.95,0.95,0.95,0.1
+The entire experience was smooth.,0.4,0.5,0.4,0.5,0.5
+The chat assistant was rude.,0.85,0.95,0.95,0.95,0.1
+Very aesthetic and comfortable.,0.2,0.3,0.2,0.3,0.9
+"It was ok, not memorable.",0.3,0.4,0.3,0.3,0.8
+I liked the minimalistic approach.,0.9,0.95,0.95,0.95,0.1
+Couldn’t even open the product.,0.2,0.3,0.2,0.2,0.85
+Love the finish and polish.,0.95,0.95,0.95,0.95,0.1
+Can’t recommend this to anyone.,0.3,0.4,0.3,0.4,0.9
+"Creative, elegant and functional.",0.9,0.95,0.95,0.95,0.1
+Felt like they really cared.,0.2,0.3,0.2,0.2,0.85
+Nothing exciting about this product.,0.95,0.95,0.95,0.95,0.1
+Wasn't as described at all.,0.9,0.95,0.95,0.95,0.1
+Super high quality packaging.,0.2,0.3,0.2,0.2,0.85
+Cheap materials and no durability.,0.95,0.95,0.95,0.95,0.1
+Lovely presentation and extras included.,0.9,0.95,0.95,0.95,0.1
+Unusable. Instructions unclear.,0.2,0.3,0.2,0.2,0.9
+"The quality blew my mind, absolutely worth it.",0.9,0.85,0.8,0.75,0.1
+"Not what I expected, very disappointed.",0.3,0.25,0.2,0.15,0.7
+Support was kind and handled everything calmly.,0.7,0.65,0.6,0.55,0.3
+"Feels like a premium product, well designed.",0.8,0.75,0.7,0.65,0.2
+Worst unboxing experience I've had.,0.2,0.15,0.1,0.05,0.8
+"Very elegant design, simple and useful.",0.85,0.8,0.75,0.7,0.15
+I’m angry and won’t recommend it to anyone.,0.1,0.05,0.1,0.1,0.9
+Polite and helpful response from the seller.,0.8,0.75,0.7,0.65,0.2
+Cheap packaging ruined the first impression.,0.3,0.25,0.2,0.15,0.7
+The material feels durable and classy.,0.85,0.8,0.75,0.7,0.15
+I got a replacement very quickly. Impressed!,0.8,0.75,0.7,0.65,0.2
+They ignored my messages completely.,0.2,0.15,0.1,0.05,0.8
+Unmatched attention to detail. Bravo!,0.95,0.9,0.85,0.8,0.05
+"Bad color, doesn't match the pictures.",0.3,0.25,0.2,0.15,0.7
+Neatly wrapped and sent with care.,0.9,0.85,0.8,0.75,0.1
+App interface is hard to navigate.,0.2,0.15,0.1,0.05,0.8
+Design is original and artistic.,0.95,0.9,0.85,0.8,0.05
+Late shipping but excellent service overall.,0.7,0.65,0.6,0.55,0.3
+No manual included. Confused.,0.2,0.15,0.1,0.05,0.8
+Delivery was fast and smooth.,0.8,0.75,0.7,0.65,0.2
+Product had scratches out of the box.,0.9,0.85,0.8,0.75,0.1
+Smooth buying experience. Thanks!,0.1,0.05,0.1,0.1,0.9
+Never buying from this brand again.,0.85,0.8,0.75,0.7,0.15
+They answered all my questions politely.,0.2,0.15,0.1,0.05,0.8
+Felt cheated by the description.,0.95,0.9,0.85,0.8,0.05
+Brilliant design and intuitive layout.,0.1,0.05,0.1,0.1,0.9
+Unreliable delivery and rude support.,0.9,0.85,0.8,0.75,0.1
+Super responsive and professional.,0.1,0.05,0.1,0.1,0.9
+I regret this purchase completely.,0.95,0.9,0.85,0.8,0.05
+"Really cool concept, well executed.",0.2,0.15,0.1,0.05,0.8
+Box was open when delivered.,0.9,0.85,0.8,0.75,0.1
+They kept me updated throughout.,0.1,0.05,0.1,0.1,0.9
+Nothing was as promised.,0.9,0.85,0.8,0.75,0.1
+This brand never disappoints me.,0.2,0.15,0.1,0.05,0.8
+Had to wait 3 weeks. Very annoying.,0.95,0.9,0.85,0.8,0.05
+The product feels innovative and fresh.,0.2,0.15,0.1,0.05,0.8
+Didn't meet the expectations I had.,0.9,0.85,0.8,0.75,0.1
+Impressive eco-conscious branding.,0.1,0.05,0.1,0.1,0.9
+Instructions were unclear and vague.,0.95,0.9,0.85,0.8,0.05
+Best online shopping experience so far!,0.1,0.05,0.1,0.1,0.9
+Still waiting for my product...,0.85,0.8,0.75,0.7,0.15
+Very functional and minimalistic design.,0.2,0.15,0.1,0.05,0.8
+Felt ignored when I reached out.,0.9,0.85,0.8,0.75,0.1
+Everything works just as described.,0.2,0.15,0.1,0.05,0.8
+Misleading marketing on the website.,0.95,0.9,0.85,0.8,0.05
+You can feel the effort they put in.,0.1,0.05,0.1,0.1,0.9
+My emails were never answered.,0.95,0.9,0.85,0.8,0.05
+Love the bold choices in the design.,0.1,0.05,0.1,0.1,0.9
+"Terrible return policy, be careful.",0.9,0.85,0.8,0.75,0.1
+Fast replies and clear follow-ups.,0.2,0.15,0.1,0.05,0.8
+Really poor customer handling.,0.95,0.9,0.85,0.8,0.05
+Super stylish and durable.,0.2,0.15,0.1,0.05,0.8
+Package arrived all torn up.,0.9,0.85,0.8,0.75,0.1
+"Product was personalized, amazing touch.",0.1,0.05,0.1,0.1,0.9
+Didn't get any confirmation email.,0.95,0.9,0.85,0.8,0.05
+Great texture and beautiful feel.,0.1,0.05,0.1,0.1,0.9
+They overcharged me without reason.,0.95,0.9,0.85,0.8,0.05
+Everything looks and feels premium.,0.1,0.05,0.1,0.1,0.9
+I’m still waiting after 10 days.,0.95,0.9,0.85,0.8,0.05
+Absolutely love the branding.,0.1,0.05,0.1,0.1,0.9
+Cheap print and bad font.,0.95,0.9,0.85,0.8,0.05
+Very fast delivery and kind delivery man.,0.1,0.05,0.1,0.1,0.9
+The paint started peeling quickly.,0.9,0.85,0.8,0.75,0.1
+Creative and user-friendly packaging.,0.1,0.05,0.1,0.1,0.9
+Lack of support ruined the experience.,0.95,0.9,0.85,0.8,0.05
+So elegant and practical. Perfect!,0.1,0.05,0.1,0.1,0.9
+Support team was completely useless.,0.95,0.9,0.85,0.8,0.05
+Very unique and modern interface.,0.1,0.05,0.1,0.1,0.9
+Wrong item sent. Disappointed.,0.9,0.85,0.8,0.75,0.1
+Love the minimalist feel of it.,0.1,0.05,0.1,0.1,0.9
+Website had bugs. Couldn't order easily.,0.95,0.9,0.85,0.8,0.05
+Best quality I’ve seen in a while.,0.1,0.05,0.1,0.1,0.9
+They never refunded me.,0.95,0.9,0.85,0.8,0.05
+Extremely well-structured layout.,0.1,0.05,0.1,0.1,0.9
+Rude and arrogant customer agent.,0.95,0.9,0.85,0.8,0.05
+Highly intuitive and smooth experience.,0.1,0.05,0.1,0.1,0.9
+Poor craftsmanship and loose parts.,0.9,0.85,0.8,0.75,0.1
+The design reflects deep thought.,0.1,0.05,0.1,0.1,0.9
+My issue was ignored totally.,0.95,0.9,0.85,0.8,0.05
+Very organized and efficient system.,0.1,0.05,0.1,0.1,0.9
+Unacceptable experience overall.,0.95,0.9,0.85,0.8,0.05
+Exceptional details and build.,0.1,0.05,0.1,0.1,0.9
+It didn’t turn on. Broken.,0.9,0.85,0.8,0.75,0.1
+Super helpful and patient staff.,0.1,0.05,0.1,0.1,0.9
+Everything went wrong. Horrible.,0.95,0.9,0.85,0.8,0.05
+Nice glossy finish and colors.,0.1,0.05,0.1,0.1,0.9
+Refund was slow and painful.,0.95,0.9,0.85,0.8,0.05
+Such a pleasant surprise to open.,0.1,0.05,0.1,0.1,0.9
+Didn’t come with charger as stated.,0.9,0.85,0.8,0.75,0.1
+Sleek product with classy visuals.,0.1,0.05,0.1,0.1,0.9
+Customer service was a nightmare.,0.95,0.9,0.85,0.8,0.05
+Futuristic look and feel. Love it.,0.1,0.05,0.1,0.1,0.9
+No answer even after multiple calls.,0.95,0.9,0.85,0.8,0.05
+"Simple, beautiful and comfortable.",0.1,0.05,0.1,0.1,0.9
+"Defective unit, had to return it.",0.95,0.9,0.85,0.8,0.05
+"Efficient, reliable, and stylish.",0.1,0.05,0.1,0.1,0.9
+Completely misleading description.,0.95,0.9,0.85,0.8,0.05
+Everything worked as expected.,0.1,0.05,0.1,0.1,0.9
+It came damaged and dirty.,0.95,0.9,0.85,0.8,0.05
+"Attractive, modern and very well made.",0.1,0.05,0.1,0.1,0.9
+"The packaging was flawless, really impressed.",0.9,0.85,0.8,0.75,0.1
+Badly wrapped and looked used.,0.3,0.25,0.2,0.15,0.7
+Customer service went above and beyond.,0.85,0.8,0.75,0.7,0.15
+Didn't meet the minimum expectations.,0.2,0.15,0.1,0.05,0.8
+High-end feel and smooth handling.,0.95,0.9,0.85,0.8,0.05
+Still haven’t received my order.,0.2,0.15,0.1,0.05,0.8
+"Beautiful product, exactly as shown.",0.9,0.85,0.8,0.75,0.1
+Poor experience. I regret ordering.,0.2,0.15,0.1,0.05,0.8
+Sleek and elegant from top to bottom.,0.95,0.9,0.85,0.8,0.05
+Nothing worked as advertised.,0.1,0.05,0.1,0.1,0.9
+Superb design and packaging quality.,0.9,0.85,0.8,0.75,0.1
+Item was missing key components.,0.2,0.15,0.1,0.05,0.8
+So grateful for their fast help.,0.8,0.75,0.7,0.65,0.2
+Product quality was a huge letdown.,0.3,0.25,0.2,0.15,0.7
+Creative use of space and form.,0.95,0.9,0.85,0.8,0.05
+They never replied to my emails.,0.2,0.15,0.1,0.05,0.8
+I admire the detail and finish.,0.9,0.85,0.8,0.75,0.1
+Color was completely off from images.,0.2,0.15,0.1,0.05,0.8
+Very satisfying customer journey.,0.8,0.75,0.7,0.65,0.2
+My refund took forever.,0.2,0.15,0.1,0.05,0.8
+Feels like something unique and new.,0.95,0.9,0.85,0.8,0.05
+Very bad quality for the price.,0.2,0.15,0.1,0.05,0.8
+Fantastic support. Quick and helpful.,0.9,0.85,0.8,0.75,0.1
+No tracking number. Very unprofessional.,0.2,0.15,0.1,0.05,0.8
+It exceeded all my expectations!,0.95,0.9,0.85,0.8,0.05
+Worst product ever. Do not buy.,0.1,0.05,0.1,0.1,0.9
+Simple but very effective design.,0.9,0.85,0.8,0.75,0.1
+Can’t believe how cheap it feels.,0.1,0.05,0.1,0.1,0.9
+Elegant experience from start to end.,0.95,0.9,0.85,0.8,0.05
+Support didn’t understand my issue.,0.2,0.15,0.1,0.05,0.8
+It’s just perfect. Nothing more to say.,0.95,0.9,0.85,0.8,0.05
+Late and no communication.,0.1,0.05,0.1,0.1,0.9
+Great job! Totally recommend it.,0.95,0.9,0.85,0.8,0.05
+Defective product on arrival.,0.2,0.15,0.1,0.05,0.8
+Love the craftsmanship and feel.,0.9,0.85,0.8,0.75,0.1
+Nothing but problems with this.,0.1,0.05,0.1,0.1,0.9
+"Modern, clean and well thought out.",0.95,0.9,0.85,0.8,0.05
+Still waiting after multiple follow-ups.,0.2,0.15,0.1,0.05,0.8
+Visually stunning. Very refined.,0.9,0.85,0.8,0.75,0.1
+I feel ignored and disrespected.,0.2,0.15,0.1,0.05,0.8
+Appreciate the thoughtful unboxing.,0.95,0.9,0.85,0.8,0.05
+Packaging was destroyed in transit.,0.1,0.05,0.1,0.1,0.9
+Absolutely love how it feels in hand.,0.9,0.85,0.8,0.75,0.1
+Never had such a bad experience.,0.2,0.15,0.1,0.05,0.8
+Perfect size and materials chosen.,0.95,0.9,0.85,0.8,0.05
+Not worth the trouble.,0.1,0.05,0.1,0.1,0.9
+Easy to use and beautiful UI.,0.95,0.9,0.85,0.8,0.05
+Totally disappointed. Stay away.,0.1,0.05,0.1,0.1,0.9
+Everything is clean and intuitive.,0.95,0.9,0.85,0.8,0.05
+I want my money back.,0.1,0.05,0.1,0.1,0.9
+Such an elegant presentation.,0.95,0.9,0.85,0.8,0.05
+Defective on first use.,0.1,0.05,0.1,0.1,0.9
+The best thing I’ve bought online.,0.95,0.9,0.85,0.8,0.05
+A complete waste of time.,0.1,0.05,0.1,0.1,0.9
+Creative concept and great execution.,0.95,0.9,0.85,0.8,0.05
+Horrible return policy.,0.1,0.05,0.1,0.1,0.9
+Very responsive and clear updates.,0.95,0.9,0.85,0.8,0.05
+"Cheap quality, overpriced.",0.1,0.05,0.1,0.1,0.9
+Exactly what I needed. Thank you!,0.95,0.9,0.85,0.8,0.05
+Item missing from package.,0.1,0.05,0.1,0.1,0.9
+Design feels premium and robust.,0.95,0.9,0.85,0.8,0.05
+Didn’t expect such poor service.,0.1,0.05,0.1,0.1,0.9
+So smooth and easy to handle.,0.95,0.9,0.85,0.8,0.05
+They never answered my request.,0.1,0.05,0.1,0.1,0.9
+It looks even better in person!,0.95,0.9,0.85,0.8,0.05
+Customer support didn’t help at all.,0.1,0.05,0.1,0.1,0.9
+So clever and refreshing!,0.95,0.9,0.85,0.8,0.05
+"Not reliable, would not recommend.",0.1,0.05,0.1,0.1,0.9
+Feels like a luxury product.,0.95,0.9,0.85,0.8,0.05
+Very cheap plastic feel.,0.1,0.05,0.1,0.1,0.9
+Professional and proactive team.,0.95,0.9,0.85,0.8,0.05
+It came scratched and dirty.,0.1,0.05,0.1,0.1,0.9
+Premium finish and comfortable.,0.95,0.9,0.85,0.8,0.05
+Seller ignored my messages.,0.1,0.05,0.1,0.1,0.9
+Beautiful flow and layout.,0.95,0.9,0.85,0.8,0.05
+No help provided when I asked.,0.1,0.05,0.1,0.1,0.9
+A really pleasant surprise!,0.95,0.9,0.85,0.8,0.05
+It was not as described.,0.1,0.05,0.1,0.1,0.9
+The material feels top-notch.,0.95,0.9,0.85,0.8,0.05
+Terrible follow-up from service.,0.1,0.05,0.1,0.1,0.9
+Pure elegance and clarity.,0.95,0.9,0.85,0.8,0.05
+Nothing useful in the box.,0.1,0.05,0.1,0.1,0.9
+Friendly and very attentive staff.,0.95,0.9,0.85,0.8,0.05
+"I want a refund, this is bad.",0.1,0.05,0.1,0.1,0.9
+Highly recommend for anyone!,0.95,0.9,0.85,0.8,0.05
+Extremely disappointed by everything.,0.1,0.05,0.1,0.1,0.9
+Feels like true quality.,0.95,0.9,0.85,0.8,0.05
+Support team didn’t solve anything.,0.1,0.05,0.1,0.1,0.9
+Impressive simplicity and function.,0.95,0.9,0.85,0.8,0.05
+No answers from the company.,0.1,0.05,0.1,0.1,0.9
+Everything about this was premium.,0.95,0.9,0.85,0.8,0.05
+"Fake product, not as shown.",0.1,0.05,0.1,0.1,0.9
+Stunning detail and elegant look.,0.95,0.9,0.85,0.8,0.05
+It just stopped working.,0.1,0.05,0.1,0.1,0.9
+Incredible usability and ease.,0.95,0.9,0.85,0.8,0.05
+Seller was aggressive and rude.,0.1,0.05,0.1,0.1,0.9
+Delivers exactly what’s promised.,0.95,0.9,0.85,0.8,0.05
+Don’t waste your money.,0.1,0.05,0.1,0.1,0.9
+Stylish and durable exterior.,0.95,0.9,0.85,0.8,0.05
+Nothing was included inside.,0.1,0.05,0.1,0.1,0.9
+"Top quality, very happy with this purchase.",0.9,0.85,0.8,0.75,0.1
+Product arrived broken and unusable.,0.2,0.15,0.1,0.1,0.8
+Beautifully designed and functional.,0.95,0.9,0.85,0.8,0.05
+Doesn't match the description at all.,0.2,0.15,0.1,0.1,0.8
+Highly efficient and thoughtful layout.,0.95,0.9,0.85,0.8,0.05
+They never sent the tracking info.,0.2,0.15,0.1,0.1,0.8
+Great attention to detail in the finish.,0.95,0.9,0.85,0.8,0.05
+Very frustrating experience overall.,0.1,0.05,0.1,0.1,0.9
+Smart and clean product design.,0.9,0.85,0.8,0.75,0.1
+Still no response from customer support.,0.1,0.05,0.1,0.1,0.9
+Impressive features and usability.,0.95,0.9,0.85,0.8,0.05
+"Terrible first impression, sadly.",0.2,0.15,0.1,0.1,0.8
+Very responsive and helpful company.,0.9,0.85,0.8,0.75,0.1
+Poor build quality and loose parts.,0.2,0.15,0.1,0.1,0.8
+"Perfect gift, very elegant.",0.9,0.85,0.8,0.75,0.1
+Shipping was a disaster.,0.1,0.05,0.1,0.1,0.9
+Fantastic build and feel in hand.,0.95,0.9,0.85,0.8,0.05
+The product was clearly used.,0.1,0.05,0.1,0.1,0.9
+One of the best shopping experiences.,0.9,0.85,0.8,0.75,0.1
+Worst packaging I’ve ever seen.,0.1,0.05,0.1,0.1,0.9
+Feels luxurious and solid.,0.95,0.9,0.85,0.8,0.05
+Unacceptable customer care.,0.1,0.05,0.1,0.1,0.9
+Simple setup and seamless use.,0.9,0.85,0.8,0.75,0.1
+Customer service ignored my issue.,0.1,0.05,0.1,0.1,0.9
+Great colors and strong material.,0.95,0.9,0.85,0.8,0.05
+Rude staff and careless delivery.,0.1,0.05,0.1,0.1,0.9
+Well-thought-out and practical.,0.95,0.9,0.85,0.8,0.05
+The package was empty.,0.1,0.05,0.1,0.1,0.9
+"Clever mechanism, works flawlessly.",0.95,0.9,0.85,0.8,0.05
+I feel completely scammed.,0.1,0.05,0.1,0.1,0.9
+Perfectly crafted and reliable.,0.95,0.9,0.85,0.8,0.05
+Horrible and confusing instructions.,0.1,0.05,0.1,0.1,0.9
+Feels like a designer item.,0.95,0.9,0.85,0.8,0.05
+Product didn’t last even a week.,0.1,0.05,0.1,0.1,0.9
+Truly unique and delightful.,0.95,0.9,0.85,0.8,0.05
+Bad attitude from the seller.,0.1,0.05,0.1,0.1,0.9
+Professional presentation and ease of use.,0.95,0.9,0.85,0.8,0.05
+Support was slow and unclear.,0.1,0.05,0.1,0.1,0.9
+Very sleek and innovative.,0.95,0.9,0.85,0.8,0.05
+Return process was awful.,0.1,0.05,0.1,0.1,0.9
+Excellent functionality and look.,0.95,0.9,0.85,0.8,0.05
+Terrible choice. Avoid it.,0.1,0.05,0.1,0.1,0.9
+So easy to handle and set up.,0.95,0.9,0.85,0.8,0.05
+Poor packaging ruined the vibe.,0.1,0.05,0.1,0.1,0.9
+Design feels premium and smart.,0.95,0.9,0.85,0.8,0.05
+No follow-up on my issue.,0.1,0.05,0.1,0.1,0.9
+Gorgeous visuals and intuitive use.,0.95,0.9,0.85,0.8,0.05
+No help from their chat service.,0.1,0.05,0.1,0.1,0.9
+They handled everything smoothly.,0.95,0.9,0.85,0.8,0.05
+Very bad quality overall.,0.1,0.05,0.1,0.1,0.9
+Premium look and lightweight.,0.95,0.9,0.85,0.8,0.05
+Not worth the money spent.,0.1,0.05,0.1,0.1,0.9
+Polished interface and clear labeling.,0.95,0.9,0.85,0.8,0.05
+No tracking update since purchase.,0.1,0.05,0.1,0.1,0.9
+Fits perfectly and looks amazing.,0.95,0.9,0.85,0.8,0.05
+Packaging looked reused and torn.,0.1,0.05,0.1,0.1,0.9
+So smooth to navigate and operate.,0.95,0.9,0.85,0.8,0.05
+Very little effort in the product.,0.1,0.05,0.1,0.1,0.9
+I love every detail about this.,0.95,0.9,0.85,0.8,0.05
+Worst handling and no support.,0.1,0.05,0.1,0.1,0.9
+Very unique and artistic feel.,0.95,0.9,0.85,0.8,0.05
+No response for days.,0.1,0.05,0.1,0.1,0.9
+Everything feels classy and high-end.,0.95,0.9,0.85,0.8,0.05
+Packaging was dirty and ripped.,0.1,0.05,0.1,0.1,0.9
+"Absolutely stunning, great buy.",0.95,0.9,0.85,0.8,0.05
+They blamed me for their mistake.,0.1,0.05,0.1,0.1,0.9
+Easy to use and understand.,0.95,0.9,0.85,0.8,0.05
+Support was aggressive and rude.,0.1,0.05,0.1,0.1,0.9
+Feels exclusive and stylish.,0.95,0.9,0.85,0.8,0.05
+Terrible user experience.,0.1,0.05,0.1,0.1,0.9
+Neat layout and attractive packaging.,0.95,0.9,0.85,0.8,0.05
+Took too long to deliver.,0.1,0.05,0.1,0.1,0.9
+Everything went perfectly.,0.95,0.9,0.85,0.8,0.05
+Cheap plastic and ugly color.,0.1,0.05,0.1,0.1,0.9
+Exceeds expectations. Very happy!,0.95,0.9,0.85,0.8,0.05
+No refund received yet.,0.1,0.05,0.1,0.1,0.9
+So fluid and pleasing to the eye.,0.95,0.9,0.85,0.8,0.05
+Never ordering here again.,0.1,0.05,0.1,0.1,0.9
+Great durability and clean look.,0.95,0.9,0.85,0.8,0.05
+Service was disappointing.,0.1,0.05,0.1,0.1,0.9
+Very intuitive and powerful features.,0.95,0.9,0.85,0.8,0.05
+Had to contact them 5 times.,0.1,0.05,0.1,0.1,0.9
+Nicely packaged and labeled.,0.95,0.9,0.85,0.8,0.05
+Worst design ever seen.,0.1,0.05,0.1,0.1,0.9
+Truly impressive and professional.,0.95,0.9,0.85,0.8,0.05
+Box came crushed and wet.,0.1,0.05,0.1,0.1,0.9
+Lovely product. Feels luxurious.,0.95,0.9,0.85,0.8,0.05
+Still unresolved issue.,0.1,0.05,0.1,0.1,0.9
+So practical and well made.,0.95,0.9,0.85,0.8,0.05
+Broken right out of the box.,0.1,0.05,0.1,0.1,0.9
+Highly elegant and effective.,0.95,0.9,0.85,0.8,0.05
+No reply even after follow-ups.,0.1,0.05,0.1,0.1,0.9
+Sharp design and smooth handling.,0.95,0.9,0.85,0.8,0.05
+Terrible mistake to trust them.,0.1,0.05,0.1,0.1,0.9
+Feels like a tech luxury.,0.95,0.9,0.85,0.8,0.05
+Had to file a complaint.,0.1,0.05,0.1,0.1,0.9
+Top-tier quality and innovation.,0.95,0.9,0.85,0.8,0.05
+Terrible layout and confusing UX.,0.1,0.05,0.1,0.1,0.9
+Amazed by the simplicity.,0.95,0.9,0.85,0.8,0.05
+Worst online experience ever.,0.1,0.05,0.1,0.1,0.9
+Super polished and thoughtfully engineered.,0.95,0.9,0.85,0.8,0.05
+"Not working as expected, very buggy.",0.2,0.15,0.1,0.1,0.8
+Flawless and professional experience.,0.95,0.9,0.85,0.8,0.05
+Broken on first use. Very upset.,0.2,0.15,0.1,0.1,0.8
+Remarkable details and smooth usability.,0.95,0.9,0.85,0.8,0.05
+Shipping was way too slow.,0.2,0.15,0.1,0.1,0.8
+Looks and feels premium.,0.95,0.9,0.85,0.8,0.05
+Poorly assembled and feels cheap.,0.2,0.15,0.1,0.1,0.8
+User-friendly and perfectly intuitive.,0.95,0.9,0.85,0.8,0.05
+I waited 2 weeks for this.,0.2,0.15,0.1,0.1,0.8
+Excellent packaging and clean design.,0.95,0.9,0.85,0.8,0.05
+Completely false advertising.,0.1,0.05,0.1,0.1,0.9
+Stunning and elegant product.,0.95,0.9,0.85,0.8,0.05
+No one helped me resolve the issue.,0.1,0.05,0.1,0.1,0.9
+"Innovative, minimal and smart.",0.95,0.9,0.85,0.8,0.05
+Delivery process was a mess.,0.1,0.05,0.1,0.1,0.9
+Refined style and elegant finish.,0.95,0.9,0.85,0.8,0.05
+The item came damaged.,0.1,0.05,0.1,0.1,0.9
+Sleek appearance and solid body.,0.95,0.9,0.85,0.8,0.05
+Terrible refund experience.,0.1,0.05,0.1,0.1,0.9
+I’m impressed by the efficiency.,0.95,0.9,0.85,0.8,0.05
+This was a big disappointment.,0.2,0.15,0.1,0.1,0.8
+Professional look and modern feel.,0.95,0.9,0.85,0.8,0.05
+The charger was missing.,0.2,0.15,0.1,0.1,0.8
+A smooth and satisfying purchase.,0.95,0.9,0.85,0.8,0.05
+The device overheats constantly.,0.2,0.15,0.1,0.1,0.8
+Classy design with practical use.,0.95,0.9,0.85,0.8,0.05
+Still haven’t received my refund.,0.2,0.15,0.1,0.1,0.8
+Satisfying build and performance.,0.95,0.9,0.85,0.8,0.05
+Cheap packaging and low quality.,0.2,0.15,0.1,0.1,0.8
+Totally reliable and simple to use.,0.95,0.9,0.85,0.8,0.05
+No follow-up after complaint.,0.2,0.15,0.1,0.1,0.8
+Feels high-end and well-crafted.,0.95,0.9,0.85,0.8,0.05
+Nothing but issues so far.,0.2,0.15,0.1,0.1,0.8
+Sharp design and elegant display.,0.95,0.9,0.85,0.8,0.05
+Bad customer service attitude.,0.2,0.15,0.1,0.1,0.8
+Such a complete and beautiful product.,0.95,0.9,0.85,0.8,0.05
+Support chat was useless.,0.2,0.15,0.1,0.1,0.8
+High-end finish and premium touch.,0.95,0.9,0.85,0.8,0.05
+No instructions were included.,0.2,0.15,0.1,0.1,0.8
+I’m thrilled with the result.,0.95,0.9,0.85,0.8,0.05
+This isn’t what I paid for.,0.1,0.05,0.1,0.1,0.9
+Really durable and high quality.,0.95,0.9,0.85,0.8,0.05
+Had to send it back immediately.,0.1,0.05,0.1,0.1,0.9
+Just perfect. Excellent job.,0.95,0.9,0.85,0.8,0.05
+Completely broken when received.,0.1,0.05,0.1,0.1,0.9
+"Very clean, very clear UI.",0.95,0.9,0.85,0.8,0.05
+Returned it the next day.,0.1,0.05,0.1,0.1,0.9
+Such a luxurious experience.,0.95,0.9,0.85,0.8,0.05
+Absolutely no support at all.,0.1,0.05,0.1,0.1,0.9
+The best purchase I’ve made.,0.95,0.9,0.85,0.8,0.05
+Terrible. Total waste of time.,0.1,0.05,0.1,0.1,0.9
+Super neat and attractive design.,0.95,0.9,0.85,0.8,0.05
+Didn’t even turn on.,0.1,0.05,0.1,0.1,0.9
+"Elegant and powerful, love it.",0.95,0.9,0.85,0.8,0.05
+Rude response from support team.,0.1,0.05,0.1,0.1,0.9
+Feels balanced and very robust.,0.95,0.9,0.85,0.8,0.05
+So many problems with this.,0.1,0.05,0.1,0.1,0.9
+Everything worked instantly.,0.95,0.9,0.85,0.8,0.05
+Nothing was working out of the box.,0.1,0.05,0.1,0.1,0.9
+Amazing value and quality.,0.95,0.9,0.85,0.8,0.05
+Regret buying it.,0.1,0.05,0.1,0.1,0.9
+Very well designed and easy to use.,0.95,0.9,0.85,0.8,0.05
+Defective unit again.,0.1,0.05,0.1,0.1,0.9
+Feels so natural and smooth.,0.95,0.9,0.85,0.8,0.05
+Worst build quality I’ve seen.,0.1,0.05,0.1,0.1,0.9
+So efficient and stylish.,0.95,0.9,0.85,0.8,0.05
+"No refund, no reply.",0.1,0.05,0.1,0.1,0.9
+Great color and finish.,0.95,0.9,0.85,0.8,0.05
+Still waiting for tracking details.,0.1,0.05,0.1,0.1,0.9
+Visually stunning and creative.,0.95,0.9,0.85,0.8,0.05
+Avoid this brand completely.,0.1,0.05,0.1,0.1,0.9
+Highly elegant and practical.,0.95,0.9,0.85,0.8,0.05
+Too many defects for the price.,0.1,0.05,0.1,0.1,0.9
+Very responsive and human support.,0.95,0.9,0.85,0.8,0.05
+Low effort and bad assembly.,0.1,0.05,0.1,0.1,0.9
+Impressive feel and quality.,0.95,0.9,0.85,0.8,0.05
+Did not match description.,0.1,0.05,0.1,0.1,0.9
+Totally exceeded expectations!,0.95,0.9,0.85,0.8,0.05
+The cable was missing.,0.1,0.05,0.1,0.1,0.9
+Felt very satisfying to use.,0.95,0.9,0.85,0.8,0.05
+Completely ignored by support.,0.1,0.05,0.1,0.1,0.9
+Extremely creative design.,0.95,0.9,0.85,0.8,0.05
+No help at all when I asked.,0.1,0.05,0.1,0.1,0.9
+Very refined and high-end.,0.95,0.9,0.85,0.8,0.05
+Packaging was badly damaged.,0.1,0.05,0.1,0.1,0.9
+Intelligent design and execution.,0.95,0.9,0.85,0.8,0.05
+Doesn’t function correctly.,0.1,0.05,0.1,0.1,0.9
+"Reliable, clear and well built.",0.95,0.9,0.85,0.8,0.05
+Got no updates about my order.,0.1,0.05,0.1,0.1,0.9
+Incredible smooth handling.,0.95,0.9,0.85,0.8,0.05
+Delivered something totally different.,0.1,0.05,0.1,0.1,0.9
+"True quality, highly satisfying.",0.95,0.9,0.85,0.8,0.05
+Worst UX ever.,0.1,0.05,0.1,0.1,0.9
+Premium feel and refined layout.,0.95,0.9,0.85,0.8,0.05
+Everything failed after two days.,0.1,0.05,0.1,0.1,0.9
+Professional and trustworthy experience.,0.95,0.9,0.85,0.8,0.05
+Support process is broken.,0.1,0.05,0.1,0.1,0.9
+Easy to operate and enjoy.,0.95,0.9,0.85,0.8,0.05
+Terrible smell and rough finish.,0.1,0.05,0.1,0.1,0.9
+Beautiful interface and smooth workflow.,0.95,0.9,0.85,0.8,0.05
+No one responded to my complaint.,0.1,0.05,0.1,0.1,0.9
+Elegant and effective solution.,0.95,0.9,0.85,0.8,0.05
+"Horrible instructions, couldn't set up.",0.1,0.05,0.1,0.1,0.9
+Refined product with amazing usability.,0.95,0.9,0.85,0.8,0.05
+Terrible delay in delivery.,0.1,0.05,0.1,0.1,0.9
+Feels premium and well built.,0.95,0.9,0.85,0.8,0.05
+No help received for my issue.,0.1,0.05,0.1,0.1,0.9
+Very user-friendly and neat.,0.95,0.9,0.85,0.8,0.05
+They completely ignored my ticket.,0.1,0.05,0.1,0.1,0.9
+Perfect mix of style and function.,0.95,0.9,0.85,0.8,0.05
+Bad quality and late shipment.,0.1,0.05,0.1,0.1,0.9
+Fantastic look and durable parts.,0.95,0.9,0.85,0.8,0.05
+Poor response time from support.,0.1,0.05,0.1,0.1,0.9
+Intuitive UI and beautiful layout.,0.95,0.9,0.85,0.8,0.05
+Didn’t receive the full order.,0.1,0.05,0.1,0.1,0.9
+High quality and nice finish.,0.95,0.9,0.85,0.8,0.05
+Took forever to get an answer.,0.1,0.05,0.1,0.1,0.9
+Smooth design and smart packaging.,0.95,0.9,0.85,0.8,0.05
+Couldn’t reach them at all.,0.1,0.05,0.1,0.1,0.9
+Highly polished and simple experience.,0.95,0.9,0.85,0.8,0.05
+Packaging was a total mess.,0.1,0.05,0.1,0.1,0.9
+Modern and innovative approach.,0.95,0.9,0.85,0.8,0.05
+Still not working after updates.,0.1,0.05,0.1,0.1,0.9
+Excellent support and resolution.,0.95,0.9,0.85,0.8,0.05
+Really poor material quality.,0.1,0.05,0.1,0.1,0.9
+Everything flows nicely and works great.,0.95,0.9,0.85,0.8,0.05
+No call back from the agent.,0.1,0.05,0.1,0.1,0.9
+Great quality and thoughtful design.,0.95,0.9,0.85,0.8,0.05
+Received a defective item again.,0.1,0.05,0.1,0.1,0.9
+A pleasure to use this device.,0.95,0.9,0.85,0.8,0.05
+No manual or help included.,0.1,0.05,0.1,0.1,0.9
+Wonderful design and execution.,0.95,0.9,0.85,0.8,0.05
+So many defects out of the box.,0.1,0.05,0.1,0.1,0.9
+Very refined and delightful.,0.95,0.9,0.85,0.8,0.05
+Nothing fits properly.,0.1,0.05,0.1,0.1,0.9
+Highly reliable and professional.,0.95,0.9,0.85,0.8,0.05
+I had to escalate the issue.,0.1,0.05,0.1,0.1,0.9
+Stylish and extremely comfortable.,0.95,0.9,0.85,0.8,0.05
+Warranty was denied unfairly.,0.1,0.05,0.1,0.1,0.9
+Great product and easy to set up.,0.95,0.9,0.85,0.8,0.05
+Everything feels cheap and fake.,0.1,0.05,0.1,0.1,0.9
+Very solid and elegant.,0.95,0.9,0.85,0.8,0.05
+It broke the same day.,0.1,0.05,0.1,0.1,0.9
+So satisfying and sleek.,0.95,0.9,0.85,0.8,0.05
+Worst support ever dealt with.,0.1,0.05,0.1,0.1,0.9
+Feels like a designer tool.,0.95,0.9,0.85,0.8,0.05
+Their app crashed every time.,0.1,0.05,0.1,0.1,0.9
+Super clean and polished device.,0.95,0.9,0.85,0.8,0.05
+No one followed up with me.,0.1,0.05,0.1,0.1,0.9
+The design makes everything easier.,0.95,0.9,0.85,0.8,0.05
+The product came damaged again.,0.1,0.05,0.1,0.1,0.9
+Looks premium and performs well.,0.95,0.9,0.85,0.8,0.05
+Very rude and unhelpful team.,0.1,0.05,0.1,0.1,0.9
+Brilliant engineering and flow.,0.95,0.9,0.85,0.8,0.05
+Still waiting after 12 days.,0.1,0.05,0.1,0.1,0.9
+Beautiful finish and flawless look.,0.95,0.9,0.85,0.8,0.05
+Defective port and no refund.,0.1,0.05,0.1,0.1,0.9
+Very pleasant to use.,0.95,0.9,0.85,0.8,0.05
+Took hours to get a reply.,0.1,0.05,0.1,0.1,0.9
+I love the clever structure.,0.95,0.9,0.85,0.8,0.05
+Nothing is working as expected.,0.1,0.05,0.1,0.1,0.9
+Just amazing in every way.,0.95,0.9,0.85,0.8,0.05
+The package was incomplete.,0.1,0.05,0.1,0.1,0.9
+Feels smooth and very natural.,0.95,0.9,0.85,0.8,0.05
+Live chat didn't work at all.,0.1,0.05,0.1,0.1,0.9
+Easy setup and top quality.,0.95,0.9,0.85,0.8,0.05
+Badly assembled and noisy.,0.1,0.05,0.1,0.1,0.9
+Great visuals and feel.,0.95,0.9,0.85,0.8,0.05
+System froze on first run.,0.1,0.05,0.1,0.1,0.9
+So well crafted and smart.,0.95,0.9,0.85,0.8,0.05
+They ignored every message.,0.1,0.05,0.1,0.1,0.9
+Everything was super intuitive.,0.95,0.9,0.85,0.8,0.05
+Torn and dirty packaging.,0.1,0.05,0.1,0.1,0.9
+A true premium experience.,0.95,0.9,0.85,0.8,0.05
+No way to track the order.,0.1,0.05,0.1,0.1,0.9
+Neat and minimal design.,0.95,0.9,0.85,0.8,0.05
+My complaint was dismissed.,0.1,0.05,0.1,0.1,0.9
+Beautiful balance between parts.,0.95,0.9,0.85,0.8,0.05
+The charger didn't work.,0.1,0.05,0.1,0.1,0.9
+Highly aesthetic and fast.,0.95,0.9,0.85,0.8,0.05
+All I got was an empty box.,0.1,0.05,0.1,0.1,0.9
+Impressive in every detail.,0.95,0.9,0.85,0.8,0.05
+Terrible software and clunky UX.,0.1,0.05,0.1,0.1,0.9
+I’d absolutely recommend it.,0.95,0.9,0.85,0.8,0.05
+Support didn’t do anything.,0.1,0.05,0.1,0.1,0.9
+Feels like great craftsmanship.,0.95,0.9,0.85,0.8,0.05
+Was never shipped.,0.1,0.05,0.1,0.1,0.9
+So refined and elegant.,0.95,0.9,0.85,0.8,0.05
+Worst delivery process.,0.1,0.05,0.1,0.1,0.9
+"Fast, smooth and intelligent.",0.95,0.9,0.85,0.8,0.05
+It overheats constantly.,0.1,0.05,0.1,0.1,0.9
+Satisfying response time and look.,0.95,0.9,0.85,0.8,0.05
+Too many errors to count.,0.1,0.05,0.1,0.1,0.9
+Polished and cohesive product.,0.95,0.9,0.85,0.8,0.05
+Still hasn’t arrived.,0.1,0.05,0.1,0.1,0.9
+Outstanding finish and handling.,0.95,0.9,0.85,0.8,0.05
+Nothing worked properly.,0.1,0.05,0.1,0.1,0.9
+"Easy, smart and clean design.",0.95,0.9,0.85,0.8,0.05
+"Bad UI, hard to understand.",0.1,0.05,0.1,0.1,0.9
+Everything is smooth and responsive.,0.95,0.9,0.85,0.8,0.05
+No answer to my emails at all.,0.1,0.05,0.1,0.1,0.9
+Great feel and balanced design.,0.95,0.9,0.85,0.8,0.05
+Wrong item sent twice.,0.1,0.05,0.1,0.1,0.9
+Intelligent layout and features.,0.95,0.9,0.85,0.8,0.05
+I regret this purchase so much.,0.1,0.05,0.1,0.1,0.9
+Feels very premium and reliable.,0.95,0.9,0.85,0.8,0.05
+Support was a complete disaster.,0.1,0.05,0.1,0.1,0.9
+So intuitive and elegant.,0.95,0.9,0.85,0.8,0.05
+No instructions included once again.,0.1,0.05,0.1,0.1,0.9
+Works great and feels great.,0.95,0.9,0.85,0.8,0.05
+Support team ghosted me.,0.1,0.05,0.1,0.1,0.9
+Very modern and classy appearance.,0.95,0.9,0.85,0.8,0.05
+Still haven’t fixed my issue.,0.1,0.05,0.1,0.1,0.9
+Top performance and design.,0.95,0.9,0.85,0.8,0.05
+This is unacceptable.,0.1,0.05,0.1,0.1,0.9
+"Refined, clear and effective.",0.95,0.9,0.85,0.8,0.05
+Not what I ordered.,0.1,0.05,0.1,0.1,0.9
+"Excellent product, very fast.",0.95,0.9,0.85,0.8,0.05
+The worst quality I’ve received.,0.1,0.05,0.1,0.1,0.9
+I’m happy with every part of this.,0.95,0.9,0.85,0.8,0.05
+Doesn’t even turn on.,0.1,0.05,0.1,0.1,0.9
+Aesthetically brilliant and practical.,0.95,0.9,0.85,0.8,0.05
+They refused to take responsibility.,0.1,0.05,0.1,0.1,0.9
+Polished experience from A to Z.,0.95,0.9,0.85,0.8,0.05
+Nothing inside the box.,0.1,0.05,0.1,0.1,0.9
+Very elegant and fluid flow.,0.95,0.9,0.85,0.8,0.05
+Refund never came.,0.1,0.05,0.1,0.1,0.9
+Creative packaging and structure.,0.95,0.9,0.85,0.8,0.05
+No help from anyone.,0.1,0.05,0.1,0.1,0.9
+Solid material and functionality.,0.95,0.9,0.85,0.8,0.05
+Too many bugs to use.,0.1,0.05,0.1,0.1,0.9
+Feels like a high-end item.,0.95,0.9,0.85,0.8,0.05
+Still waiting after weeks.,0.1,0.05,0.1,0.1,0.9
+Everything clicks beautifully.,0.95,0.9,0.85,0.8,0.05
+Terrible build for the price.,0.1,0.05,0.1,0.1,0.9
+Looks and works perfectly.,0.95,0.9,0.85,0.8,0.05
+They didn’t solve anything.,0.1,0.05,0.1,0.1,0.9
+Minimalist and sophisticated.,0.95,0.9,0.85,0.8,0.05
+Faulty charger provided.,0.1,0.05,0.1,0.1,0.9
+I love this design so much.,0.95,0.9,0.85,0.8,0.05
+Shipping was incredibly late.,0.1,0.05,0.1,0.1,0.9
+Truly seamless performance.,0.95,0.9,0.85,0.8,0.05
+Customer support was rude.,0.1,0.05,0.1,0.1,0.9
+Beautiful UI and structure.,0.95,0.9,0.85,0.8,0.05
+Still facing the same issue.,0.1,0.05,0.1,0.1,0.9
+Reliable and powerful device.,0.95,0.9,0.85,0.8,0.05
+Couldn’t get it to start.,0.1,0.05,0.1,0.1,0.9
+The quality is next level.,0.95,0.9,0.85,0.8,0.05
+Delivery was chaotic.,0.1,0.05,0.1,0.1,0.9
+So smart and well-made.,0.95,0.9,0.85,0.8,0.05
+Worst return process I’ve seen.,0.1,0.05,0.1,0.1,0.9
+The interaction was smooth.,0.95,0.9,0.85,0.8,0.05
+Nothing worked as promised.,0.1,0.05,0.1,0.1,0.9
+Highly functional and sharp.,0.95,0.9,0.85,0.8,0.05
+They never issued my refund.,0.1,0.05,0.1,0.1,0.9
+Perfect mix of beauty and function.,0.95,0.9,0.85,0.8,0.05
+No one got back to me.,0.1,0.05,0.1,0.1,0.9
+Very professional and pleasing.,0.95,0.9,0.85,0.8,0.05
+They sent me something else.,0.1,0.05,0.1,0.1,0.9
+Just flawless and classy.,0.95,0.9,0.85,0.8,0.05
+Can’t believe how bad this was.,0.1,0.05,0.1,0.1,0.9
+Great visuals and materials.,0.95,0.9,0.85,0.8,0.05
+They didn’t even respond.,0.1,0.05,0.1,0.1,0.9
+Really beautiful product.,0.95,0.9,0.85,0.8,0.05
+Nothing is functioning here.,0.1,0.05,0.1,0.1,0.9
+Incredibly elegant experience.,0.95,0.9,0.85,0.8,0.05
+They forgot an item.,0.1,0.05,0.1,0.1,0.9
+Easy to operate and very clean.,0.95,0.9,0.85,0.8,0.05
+Delivery guy was aggressive.,0.1,0.05,0.1,0.1,0.9
+A complete joy to use.,0.95,0.9,0.85,0.8,0.05
+Unacceptable delay and packaging.,0.1,0.05,0.1,0.1,0.9
+Visually stunning and well-built.,0.95,0.9,0.85,0.8,0.05
+Never again with this brand.,0.1,0.05,0.1,0.1,0.9
+Feels like true craftsmanship.,0.95,0.9,0.85,0.8,0.05
+Doesn’t charge at all.,0.1,0.05,0.1,0.1,0.9
+Love the simplicity and polish.,0.95,0.9,0.85,0.8,0.05
+Worst instructions ever.,0.1,0.05,0.1,0.1,0.9
+Outstanding build and visuals.,0.95,0.9,0.85,0.8,0.05
+"Wrong size, wrong model.",0.1,0.05,0.1,0.1,0.9
+Everything works effortlessly.,0.95,0.9,0.85,0.8,0.05
+Totally broken on arrival.,0.1,0.05,0.1,0.1,0.9
+So refined and inspiring.,0.95,0.9,0.85,0.8,0.05
+Didn’t work even once.,0.1,0.05,0.1,0.1,0.9
+Smooth setup and experience.,0.95,0.9,0.85,0.8,0.05
+Was missing key parts.,0.1,0.05,0.1,0.1,0.9
+Top level design and stability.,0.95,0.9,0.85,0.8,0.05
+Impossible to reach their service.,0.1,0.05,0.1,0.1,0.9
+"Elegant, fast, and powerful.",0.95,0.9,0.85,0.8,0.05
+A defective mess.,0.1,0.05,0.1,0.1,0.9
+Professional structure and use.,0.95,0.9,0.85,0.8,0.05
+No one answers on support.,0.1,0.05,0.1,0.1,0.9
+Incredible polish and flow.,0.95,0.9,0.85,0.8,0.05
+Couldn’t install anything.,0.1,0.05,0.1,0.1,0.9
+Sleek and luxurious device.,0.95,0.9,0.85,0.8,0.05
+Order was canceled without notice.,0.1,0.05,0.1,0.1,0.9
+Delightful look and feel.,0.95,0.9,0.85,0.8,0.05
+So many unresolved issues.,0.1,0.05,0.1,0.1,0.9
+Very well executed layout.,0.95,0.9,0.85,0.8,0.05
+Completely disorganized process.,0.1,0.05,0.1,0.1,0.9
+Perfect product with flawless performance.,0.95,0.9,0.85,0.8,0.05
+Customer support never answered me.,0.1,0.05,0.1,0.1,0.9
+Brilliant execution and intuitive controls.,0.95,0.9,0.85,0.8,0.05
+Item arrived broken and late.,0.1,0.05,0.1,0.1,0.9
+Amazing packaging and thoughtful extras.,0.95,0.9,0.85,0.8,0.05
+Terrible handling of my complaint.,0.1,0.05,0.1,0.1,0.9
+Smooth operation and elegant design.,0.95,0.9,0.85,0.8,0.05
+Still no solution provided.,0.1,0.05,0.1,0.1,0.9
+Top quality and perfect build.,0.95,0.9,0.85,0.8,0.05
+App didn’t work at all.,0.1,0.05,0.1,0.1,0.9
+Visually appealing and efficient.,0.95,0.9,0.85,0.8,0.05
+Nobody addressed my issue.,0.1,0.05,0.1,0.1,0.9
+Well-polished and fast system.,0.95,0.9,0.85,0.8,0.05
+Had to explain my problem three times.,0.1,0.05,0.1,0.1,0.9
+Nice UI and clean structure.,0.95,0.9,0.85,0.8,0.05
+Awful experience from start to end.,0.1,0.05,0.1,0.1,0.9
+Comfortable and professional device.,0.95,0.9,0.85,0.8,0.05
+Too many problems encountered.,0.1,0.05,0.1,0.1,0.9
+Highly detailed and reliable.,0.95,0.9,0.85,0.8,0.05
+Received incomplete package.,0.1,0.05,0.1,0.1,0.9
+Super intuitive and beautiful product.,0.95,0.9,0.85,0.8,0.05
+Delayed and careless delivery.,0.1,0.05,0.1,0.1,0.9
+Clever features and layout.,0.95,0.9,0.85,0.8,0.05
+Couldn’t even complete setup.,0.1,0.05,0.1,0.1,0.9
+Design looks amazing and works well.,0.95,0.9,0.85,0.8,0.05
+Bad smell and scratches on item.,0.1,0.05,0.1,0.1,0.9
+Very ergonomic and refined.,0.95,0.9,0.85,0.8,0.05
+Waste of time and money.,0.1,0.05,0.1,0.1,0.9
+Love how easy everything is.,0.95,0.9,0.85,0.8,0.05
+Useless support team.,0.1,0.05,0.1,0.1,0.9
+Minimalistic and powerful.,0.95,0.9,0.85,0.8,0.05
+Never got a response back.,0.1,0.05,0.1,0.1,0.9
+It runs smoothly and quietly.,0.95,0.9,0.85,0.8,0.05
+The packaging was damaged badly.,0.1,0.05,0.1,0.1,0.9
+Elegant device and structure.,0.95,0.9,0.85,0.8,0.05
+They completely failed my request.,0.1,0.05,0.1,0.1,0.9
+Truly sleek and reliable.,0.95,0.9,0.85,0.8,0.05
+Very confusing setup process.,0.1,0.05,0.1,0.1,0.9
+Sharp visuals and excellent grip.,0.95,0.9,0.85,0.8,0.05
+I regret trusting this company.,0.1,0.05,0.1,0.1,0.9
+Everything is seamless and stable.,0.95,0.9,0.85,0.8,0.05
+Worst service I’ve encountered.,0.1,0.05,0.1,0.1,0.9
+Clear interface and smooth transition.,0.95,0.9,0.85,0.8,0.05
+Wasn’t what I ordered at all.,0.1,0.05,0.1,0.1,0.9
+Clean layout and good battery life.,0.95,0.9,0.85,0.8,0.05
+Nobody responded to my ticket.,0.1,0.05,0.1,0.1,0.9
+Amazing finish and usability.,0.95,0.9,0.85,0.8,0.05
+Support didn’t even read my message.,0.1,0.05,0.1,0.1,0.9
+Incredible detail and appearance.,0.95,0.9,0.85,0.8,0.05
+"Tried multiple times, no result.",0.1,0.05,0.1,0.1,0.9
+Nice feel and organized setup.,0.95,0.9,0.85,0.8,0.05
+Horrible refund experience.,0.1,0.05,0.1,0.1,0.9
+Love the material and visuals.,0.95,0.9,0.85,0.8,0.05
+So many failures in this system.,0.1,0.05,0.1,0.1,0.9
+Very stable and fluid.,0.95,0.9,0.85,0.8,0.05
+Completely broken device.,0.1,0.05,0.1,0.1,0.9
+"Reliable, stylish and fast.",0.95,0.9,0.85,0.8,0.05
+They ignored every email I sent.,0.1,0.05,0.1,0.1,0.9
+Very well packaged and crafted.,0.95,0.9,0.85,0.8,0.05
+Nothing was functional.,0.1,0.05,0.1,0.1,0.9
+Satisfying sound and speed.,0.95,0.9,0.85,0.8,0.05
+Bad communication and delay.,0.1,0.05,0.1,0.1,0.9
+Feels high-end and professional.,0.95,0.9,0.85,0.8,0.05
+Returned it immediately.,0.1,0.05,0.1,0.1,0.9
+Incredible design and balance.,0.95,0.9,0.85,0.8,0.05
+Very low quality for this price.,0.1,0.05,0.1,0.1,0.9
+Gorgeous look and great performance.,0.95,0.9,0.85,0.8,0.05
+System crashed on day one.,0.1,0.05,0.1,0.1,0.9
+"Simple, elegant and robust.",0.95,0.9,0.85,0.8,0.05
+The box arrived empty.,0.1,0.05,0.1,0.1,0.9
+Crafted with excellence.,0.95,0.9,0.85,0.8,0.05
+Unacceptable technical problems.,0.1,0.05,0.1,0.1,0.9
+Perfectly smooth performance.,0.95,0.9,0.85,0.8,0.05
+Absolutely terrible experience.,0.1,0.05,0.1,0.1,0.9
+Intelligent layout and display.,0.95,0.9,0.85,0.8,0.05
+Couldn’t access the features.,0.1,0.05,0.1,0.1,0.9
+Luxurious appearance and comfort.,0.95,0.9,0.85,0.8,0.05
+Completely useless on delivery.,0.1,0.05,0.1,0.1,0.9
+Highly efficient and refined.,0.95,0.9,0.85,0.8,0.05
+Refund still not processed.,0.1,0.05,0.1,0.1,0.9
+Superb visuals and controls.,0.95,0.9,0.85,0.8,0.05
+Unhelpful answers from support.,0.1,0.05,0.1,0.1,0.9
+Love how intuitive it is.,0.95,0.9,0.85,0.8,0.05
+Worst UI I’ve ever seen.,0.1,0.05,0.1,0.1,0.9
+Extremely fast and attractive.,0.95,0.9,0.85,0.8,0.05
+No help from their hotline.,0.1,0.05,0.1,0.1,0.9
+Seamless integration and style.,0.95,0.9,0.85,0.8,0.05
+They didn’t resolve anything.,0.1,0.05,0.1,0.1,0.9
+Great flow and aesthetics.,0.95,0.9,0.85,0.8,0.05
+Device didn’t start once.,0.1,0.05,0.1,0.1,0.9
+Very effective and polished.,0.95,0.9,0.85,0.8,0.05
+So disappointed by this company.,0.1,0.05,0.1,0.1,0.9
+Everything feels premium and solid.,0.95,0.9,0.85,0.8,0.05
+They didn’t even apologize.,0.1,0.05,0.1,0.1,0.9
+Neat interface and great power.,0.95,0.9,0.85,0.8,0.05
+Nobody answered the phone.,0.1,0.05,0.1,0.1,0.9
+Fantastic speed and visuals.,0.95,0.9,0.85,0.8,0.05
+Support was unavailable all day.,0.1,0.05,0.1,0.1,0.9
+Amazed by the experience.,0.95,0.9,0.85,0.8,0.05
+I had to open a dispute.,0.1,0.05,0.1,0.1,0.9
+Everything worked perfectly and quickly.,0.95,0.9,0.85,0.8,0.05
+Item arrived with missing parts.,0.1,0.05,0.1,0.1,0.9
+Feels incredibly polished and high-end.,0.95,0.9,0.85,0.8,0.05
+They didn’t resolve my issue.,0.1,0.05,0.1,0.1,0.9
+Very smart and responsive design.,0.95,0.9,0.85,0.8,0.05
+No refund was issued.,0.1,0.05,0.1,0.1,0.9
+Everything feels so well made.,0.95,0.9,0.85,0.8,0.05
+Still waiting for support to reply.,0.1,0.05,0.1,0.1,0.9
+Looks amazing and works flawlessly.,0.95,0.9,0.85,0.8,0.05
+Unacceptable delay in shipping.,0.1,0.05,0.1,0.1,0.9
+Love the performance and aesthetics.,0.95,0.9,0.85,0.8,0.05
+Support never followed up.,0.1,0.05,0.1,0.1,0.9
+"Elegant, quiet and functional.",0.95,0.9,0.85,0.8,0.05
+No help from their email team.,0.1,0.05,0.1,0.1,0.9
+Everything looks clean and runs fast.,0.95,0.9,0.85,0.8,0.05
+Still no tracking number provided.,0.1,0.05,0.1,0.1,0.9
+Highly impressed with the product.,0.95,0.9,0.85,0.8,0.05
+Worst quality I’ve experienced.,0.1,0.05,0.1,0.1,0.9
+I’m very pleased with the usability.,0.95,0.9,0.85,0.8,0.05
+Support experience was awful.,0.1,0.05,0.1,0.1,0.9
+Great balance of features and form.,0.95,0.9,0.85,0.8,0.05
+I regret ordering from them.,0.1,0.05,0.1,0.1,0.9
+Refined and user-focused layout.,0.95,0.9,0.85,0.8,0.05
+Live chat was unresponsive.,0.1,0.05,0.1,0.1,0.9
+Fast and beautiful interface.,0.95,0.9,0.85,0.8,0.05
+Broken on delivery again.,0.1,0.05,0.1,0.1,0.9
+Simple and elegant appearance.,0.95,0.9,0.85,0.8,0.05
+Still haven’t received anything.,0.1,0.05,0.1,0.1,0.9
+Everything works as advertised.,0.95,0.9,0.85,0.8,0.05
+Disappointing performance overall.,0.1,0.05,0.1,0.1,0.9
+Very elegant and minimalist.,0.95,0.9,0.85,0.8,0.05
+They blamed me for their mistake.,0.1,0.05,0.1,0.1,0.9
+Strong build and beautiful surface.,0.95,0.9,0.85,0.8,0.05
+They didn’t offer any solution.,0.1,0.05,0.1,0.1,0.9
+Seamless UI and great visuals.,0.95,0.9,0.85,0.8,0.05
+Not usable in current state.,0.1,0.05,0.1,0.1,0.9
+Very clear and modern structure.,0.95,0.9,0.85,0.8,0.05
+Totally unacceptable treatment.,0.1,0.05,0.1,0.1,0.9
+Wonderful presentation and packaging.,0.95,0.9,0.85,0.8,0.05
+It completely failed on setup.,0.1,0.05,0.1,0.1,0.9
+So pleasant and simple to use.,0.95,0.9,0.85,0.8,0.05
+Worst experience I’ve had online.,0.1,0.05,0.1,0.1,0.9
+Sharp design and premium touch.,0.95,0.9,0.85,0.8,0.05
+Still unresolved after weeks.,0.1,0.05,0.1,0.1,0.9
+Everything is perfectly responsive.,0.95,0.9,0.85,0.8,0.05
+Support ignored multiple emails.,0.1,0.05,0.1,0.1,0.9
+Feels like a luxury item.,0.95,0.9,0.85,0.8,0.05
+Absolutely no reply from staff.,0.1,0.05,0.1,0.1,0.9
+Reliable and extremely elegant.,0.95,0.9,0.85,0.8,0.05
+Delivery was extremely slow.,0.1,0.05,0.1,0.1,0.9
+Totally seamless and thoughtful design.,0.95,0.9,0.85,0.8,0.05
+Not working out of the box.,0.1,0.05,0.1,0.1,0.9
+Very refined and lightweight.,0.95,0.9,0.85,0.8,0.05
+No compensation was offered.,0.1,0.05,0.1,0.1,0.9
+Looks luxurious and high quality.,0.95,0.9,0.85,0.8,0.05
+Disappointing materials inside.,0.1,0.05,0.1,0.1,0.9
+So efficient and smartly done.,0.95,0.9,0.85,0.8,0.05
+I feel cheated by the brand.,0.1,0.05,0.1,0.1,0.9
+Very high standard and detail.,0.95,0.9,0.85,0.8,0.05
+They gave no update at all.,0.1,0.05,0.1,0.1,0.9
+Clean and premium layout.,0.95,0.9,0.85,0.8,0.05
+Support didn’t fix anything.,0.1,0.05,0.1,0.1,0.9
+Elegant solution and execution.,0.95,0.9,0.85,0.8,0.05
+Poor packaging and scuffed box.,0.1,0.05,0.1,0.1,0.9
+Everything runs smoothly and fast.,0.95,0.9,0.85,0.8,0.05
+Worst layout and setup ever.,0.1,0.05,0.1,0.1,0.9
+Truly professional and balanced.,0.95,0.9,0.85,0.8,0.05
+App wouldn’t start at all.,0.1,0.05,0.1,0.1,0.9
+Super intuitive and rich in features.,0.95,0.9,0.85,0.8,0.05
+I wish I could return this.,0.1,0.05,0.1,0.1,0.9
+Very attractive and reliable.,0.95,0.9,0.85,0.8,0.05
+Couldn’t even log in.,0.1,0.05,0.1,0.1,0.9
+Incredible build and usability.,0.95,0.9,0.85,0.8,0.05
+Zero communication after sale.,0.1,0.05,0.1,0.1,0.9
+"Fast, modern and polished.",0.95,0.9,0.85,0.8,0.05
+Nothing fits together right.,0.1,0.05,0.1,0.1,0.9
+Extremely ergonomic and refined.,0.95,0.9,0.85,0.8,0.05
+Their process is chaotic.,0.1,0.05,0.1,0.1,0.9
+Flawless look and performance.,0.95,0.9,0.85,0.8,0.05
+Nothing worked as described.,0.1,0.05,0.1,0.1,0.9
+So simple and powerful.,0.95,0.9,0.85,0.8,0.05
+Terrible delivery service.,0.1,0.05,0.1,0.1,0.9
+Top-tier design and comfort.,0.95,0.9,0.85,0.8,0.05
+Defective and noisy product.,0.1,0.05,0.1,0.1,0.9
+Well-structured and very fluid.,0.95,0.9,0.85,0.8,0.05
+The team didn’t help at all.,0.1,0.05,0.1,0.1,0.9
+Brilliant look and feel.,0.95,0.9,0.85,0.8,0.05
+Never got my replacement.,0.1,0.05,0.1,0.1,0.9
+Impressive handling and feel.,0.95,0.9,0.85,0.8,0.05
+The experience was terrible.,0.1,0.05,0.1,0.1,0.9
+Reliable and very refined.,0.95,0.9,0.85,0.8,0.05
+Completely broken packaging.,0.1,0.05,0.1,0.1,0.9
+Outstanding layout and controls.,0.95,0.9,0.85,0.8,0.05
+It crashed multiple times.,0.1,0.05,0.1,0.1,0.9
+Highly usable and clear system.,0.95,0.9,0.85,0.8,0.05
+Still haven’t received tracking.,0.1,0.05,0.1,0.1,0.9
+Luxurious shape and easy flow.,0.95,0.9,0.85,0.8,0.05
+Very frustrating experience.,0.1,0.05,0.1,0.1,0.9
+Looks excellent and operates well.,0.95,0.9,0.85,0.8,0.05
+Not satisfied with the quality.,0.1,0.05,0.1,0.1,0.9
+Super easy to install and use.,0.95,0.9,0.85,0.8,0.05
+Product was broken on arrival.,0.1,0.05,0.1,0.1,0.9
+"Elegant, smooth and responsive.",0.95,0.9,0.85,0.8,0.05
+No help from customer service.,0.1,0.05,0.1,0.1,0.9
+"Works flawlessly, I love it.",0.95,0.9,0.85,0.8,0.05
+Still no response from support.,0.1,0.05,0.1,0.1,0.9
+High-quality and beautifully built.,0.95,0.9,0.85,0.8,0.05
+Completely ignored my issue.,0.1,0.05,0.1,0.1,0.9
+Everything runs quietly and fast.,0.95,0.9,0.85,0.8,0.05
+Poorly handled shipping process.,0.1,0.05,0.1,0.1,0.9
+Refined and professional device.,0.95,0.9,0.85,0.8,0.05
+Worst packaging I’ve seen.,0.1,0.05,0.1,0.1,0.9
+Great functionality and look.,0.95,0.9,0.85,0.8,0.05
+Never got a follow-up.,0.1,0.05,0.1,0.1,0.9
+Amazing usability and comfort.,0.95,0.9,0.85,0.8,0.05
+Support just disappeared.,0.1,0.05,0.1,0.1,0.9
+Feels premium and very sleek.,0.95,0.9,0.85,0.8,0.05
+No solution after many emails.,0.1,0.05,0.1,0.1,0.9
+Impressive performance and flow.,0.95,0.9,0.85,0.8,0.05
+Still fighting to get help.,0.1,0.05,0.1,0.1,0.9
+Great speed and reliability.,0.95,0.9,0.85,0.8,0.05
+Wrong model was delivered.,0.1,0.05,0.1,0.1,0.9
+Highly intuitive experience.,0.95,0.9,0.85,0.8,0.05
+They refused to acknowledge the issue.,0.1,0.05,0.1,0.1,0.9
+Product is fast and elegant.,0.95,0.9,0.85,0.8,0.05
+Nothing in the box matched.,0.1,0.05,0.1,0.1,0.9
+Outstanding construction and design.,0.95,0.9,0.85,0.8,0.05
+Disappointing service and delay.,0.1,0.05,0.1,0.1,0.9
+Flawless interaction and setup.,0.95,0.9,0.85,0.8,0.05
+Completely failed to deliver.,0.1,0.05,0.1,0.1,0.9
+Beautiful and highly functional.,0.95,0.9,0.85,0.8,0.05
+Still waiting for feedback.,0.1,0.05,0.1,0.1,0.9
+Incredible visuals and comfort.,0.95,0.9,0.85,0.8,0.05
+I’ve been ignored for weeks.,0.1,0.05,0.1,0.1,0.9
+Simple and modern appearance.,0.95,0.9,0.85,0.8,0.05
+Worst device I’ve ever received.,0.1,0.05,0.1,0.1,0.9
+Top marks for quality and speed.,0.95,0.9,0.85,0.8,0.05
+The whole return was a mess.,0.1,0.05,0.1,0.1,0.9
+Feels intelligent and well designed.,0.95,0.9,0.85,0.8,0.05
+App crashes every time.,0.1,0.05,0.1,0.1,0.9
+So reliable and nicely made.,0.95,0.9,0.85,0.8,0.05
+They didn’t even answer me.,0.1,0.05,0.1,0.1,0.9
+Clean and pleasant structure.,0.95,0.9,0.85,0.8,0.05
+They left my issue unresolved.,0.1,0.05,0.1,0.1,0.9
+Very elegant in every detail.,0.95,0.9,0.85,0.8,0.05
+No update since purchase.,0.1,0.05,0.1,0.1,0.9
+Perfect balance and usability.,0.95,0.9,0.85,0.8,0.05
+Horrible team and bad delivery.,0.1,0.05,0.1,0.1,0.9
+"Professional, light and fast.",0.95,0.9,0.85,0.8,0.05
+No replacement was offered.,0.1,0.05,0.1,0.1,0.9
+Looks classy and performs well.,0.95,0.9,0.85,0.8,0.05
+Had to send multiple complaints.,0.1,0.05,0.1,0.1,0.9
+Everything is working like magic.,0.95,0.9,0.85,0.8,0.05
+The device came completely dead.,0.1,0.05,0.1,0.1,0.9
+So smooth and simple to use.,0.95,0.9,0.85,0.8,0.05
+Disaster of a support system.,0.1,0.05,0.1,0.1,0.9
+Sharp features and polished body.,0.95,0.9,0.85,0.8,0.05
+They didn’t care at all.,0.1,0.05,0.1,0.1,0.9
+Very clever and minimal design.,0.95,0.9,0.85,0.8,0.05
+Refund was never issued.,0.1,0.05,0.1,0.1,0.9
+Quiet and efficient performance.,0.95,0.9,0.85,0.8,0.05
+The product was incomplete.,0.1,0.05,0.1,0.1,0.9
+Top notch materials and logic.,0.95,0.9,0.85,0.8,0.05
+They never replied to tickets.,0.1,0.05,0.1,0.1,0.9
+Extremely clean and powerful.,0.95,0.9,0.85,0.8,0.05
+It was a total waste of money.,0.1,0.05,0.1,0.1,0.9
+Feels refined and effortless.,0.95,0.9,0.85,0.8,0.05
+Worst first impression ever.,0.1,0.05,0.1,0.1,0.9
+Very stylish and professional.,0.95,0.9,0.85,0.8,0.05
+Took too long to arrive.,0.1,0.05,0.1,0.1,0.9
+I’m amazed by the layout.,0.95,0.9,0.85,0.8,0.05
+Nothing was explained properly.,0.1,0.05,0.1,0.1,0.9
+Everything is incredibly fast.,0.95,0.9,0.85,0.8,0.05
+They made it worse actually.,0.1,0.05,0.1,0.1,0.9
+Really strong and elegant.,0.95,0.9,0.85,0.8,0.05
+I wouldn’t recommend this.,0.1,0.05,0.1,0.1,0.9
+Awesome functionality and finish.,0.95,0.9,0.85,0.8,0.05
+Horrible attitude from team.,0.1,0.05,0.1,0.1,0.9
+"Modern, sleek and smart.",0.95,0.9,0.85,0.8,0.05
+Terribly assembled and slow.,0.1,0.05,0.1,0.1,0.9
+Super fluid experience.,0.95,0.9,0.85,0.8,0.05
+They completely ignored me.,0.1,0.05,0.1,0.1,0.9
+Looks great and works even better.,0.95,0.9,0.85,0.8,0.05
+Very bad attention to detail.,0.1,0.05,0.1,0.1,0.9
+Highly polished and silent.,0.95,0.9,0.85,0.8,0.05
+No apology or effort to help.,0.1,0.05,0.1,0.1,0.9
+Neat structure and design.,0.95,0.9,0.85,0.8,0.05
+Terrible mess from start.,0.1,0.05,0.1,0.1,0.9
+Well-built and stable.,0.95,0.9,0.85,0.8,0.05
+Absolutely no follow-up.,0.1,0.05,0.1,0.1,0.9
+Easy setup and operation.,0.95,0.9,0.85,0.8,0.05
+Customer care was horrible.,0.1,0.05,0.1,0.1,0.9
+Top-tier visuals and feel.,0.95,0.9,0.85,0.8,0.05
+They never returned my call.,0.1,0.05,0.1,0.1,0.9
+Simply a great product.,0.95,0.9,0.85,0.8,0.05
+Very frustrating support.,0.1,0.05,0.1,0.1,0.9
+Efficient and gorgeous interface.,0.95,0.9,0.85,0.8,0.05
+The device never powered on.,0.1,0.05,0.1,0.1,0.9
+Fantastic shape and controls.,0.95,0.9,0.85,0.8,0.05
+No support after delivery.,0.1,0.05,0.1,0.1,0.9
+The setup was fast and effortless.,0.95,0.9,0.85,0.8,0.05
+Horrible customer care experience.,0.1,0.05,0.1,0.1,0.9
+Super clean and responsive interface.,0.95,0.9,0.85,0.8,0.05
+They didn’t help at all.,0.1,0.05,0.1,0.1,0.9
+Everything worked as expected.,0.95,0.9,0.85,0.8,0.05
+Worst delivery and refund ever.,0.1,0.05,0.1,0.1,0.9
+Very pleasant and professional device.,0.95,0.9,0.85,0.8,0.05
+No way to contact anyone.,0.1,0.05,0.1,0.1,0.9
+"Simple, smart and efficient.",0.95,0.9,0.85,0.8,0.05
+They refused to acknowledge my request.,0.1,0.05,0.1,0.1,0.9
+Beautiful and very reliable.,0.95,0.9,0.85,0.8,0.05
+Treated me very poorly.,0.1,0.05,0.1,0.1,0.9
+Incredible speed and design.,0.95,0.9,0.85,0.8,0.05
+Nothing from the box was usable.,0.1,0.05,0.1,0.1,0.9
+It’s well structured and sleek.,0.95,0.9,0.85,0.8,0.05
+Too many issues with this product.,0.1,0.05,0.1,0.1,0.9
+Totally worth the price.,0.95,0.9,0.85,0.8,0.05
+Didn’t function from the start.,0.1,0.05,0.1,0.1,0.9
+Great handling and quality.,0.95,0.9,0.85,0.8,0.05
+Wasted hours trying to get help.,0.1,0.05,0.1,0.1,0.9
+Very elegant and robust.,0.95,0.9,0.85,0.8,0.05
+Absolutely terrible packaging.,0.1,0.05,0.1,0.1,0.9
+Everything runs like a dream.,0.95,0.9,0.85,0.8,0.05
+I had to fix it myself.,0.1,0.05,0.1,0.1,0.9
+Perfectly built and silent.,0.95,0.9,0.85,0.8,0.05
+No answer from their team.,0.1,0.05,0.1,0.1,0.9
+Looks and feels fantastic.,0.95,0.9,0.85,0.8,0.05
+Couldn’t use it at all.,0.1,0.05,0.1,0.1,0.9
+Refined shape and performance.,0.95,0.9,0.85,0.8,0.05
+They ignored every complaint.,0.1,0.05,0.1,0.1,0.9
+Satisfying experience overall.,0.95,0.9,0.85,0.8,0.05
+No one processed my return.,0.1,0.05,0.1,0.1,0.9
+Design is sharp and fluid.,0.95,0.9,0.85,0.8,0.05
+Product came broken twice.,0.1,0.05,0.1,0.1,0.9
+Neat layout and polished build.,0.95,0.9,0.85,0.8,0.05
+I’m still waiting on updates.,0.1,0.05,0.1,0.1,0.9
+Awesome product and handling.,0.95,0.9,0.85,0.8,0.05
+Worst online purchase ever.,0.1,0.05,0.1,0.1,0.9
+Very responsive and solid.,0.95,0.9,0.85,0.8,0.05
+Couldn’t reach anyone by phone.,0.1,0.05,0.1,0.1,0.9
+Top-level materials and form.,0.95,0.9,0.85,0.8,0.05
+Zero support throughout.,0.1,0.05,0.1,0.1,0.9
+I highly recommend this product.,0.95,0.9,0.85,0.8,0.05
+Unacceptable delay in replies.,0.1,0.05,0.1,0.1,0.9
+The item exceeded expectations.,0.95,0.9,0.85,0.8,0.05
+They didn’t resolve anything.,0.1,0.05,0.1,0.1,0.9
+So smooth and enjoyable to use.,0.95,0.9,0.85,0.8,0.05
+Too many flaws and errors.,0.1,0.05,0.1,0.1,0.9
+"Minimalist design, maximum function.",0.95,0.9,0.85,0.8,0.05
+No instructions in the package.,0.1,0.05,0.1,0.1,0.9
+Professional finish and look.,0.95,0.9,0.85,0.8,0.05
+No follow-up despite promise.,0.1,0.05,0.1,0.1,0.9
+Lovely device and support.,0.95,0.9,0.85,0.8,0.05
+Can’t use it in current state.,0.1,0.05,0.1,0.1,0.9
+Really polished and stylish.,0.95,0.9,0.85,0.8,0.05
+Still no response received.,0.1,0.05,0.1,0.1,0.9
+Great product with clean UI.,0.95,0.9,0.85,0.8,0.05
+They won’t help with returns.,0.1,0.05,0.1,0.1,0.9
+So lightweight and fast.,0.95,0.9,0.85,0.8,0.05
+Awful performance from start.,0.1,0.05,0.1,0.1,0.9
+Super smart design and layout.,0.95,0.9,0.85,0.8,0.05
+The plug didn’t work at all.,0.1,0.05,0.1,0.1,0.9
+Brilliant concept and feel.,0.95,0.9,0.85,0.8,0.05
+Worst return policy I’ve dealt with.,0.1,0.05,0.1,0.1,0.9
+Very solid and well thought.,0.95,0.9,0.85,0.8,0.05
+They sent the wrong item again.,0.1,0.05,0.1,0.1,0.9
+Highly usable and elegant.,0.95,0.9,0.85,0.8,0.05
+Nothing arrived on time.,0.1,0.05,0.1,0.1,0.9
+Impressive structure and usability.,0.95,0.9,0.85,0.8,0.05
+Completely ignored my emails.,0.1,0.05,0.1,0.1,0.9
+Feels premium in all aspects.,0.95,0.9,0.85,0.8,0.05
+This brand is unreliable.,0.1,0.05,0.1,0.1,0.9
+I’m happy with every feature.,0.95,0.9,0.85,0.8,0.05
+So disappointed by everything.,0.1,0.05,0.1,0.1,0.9
+Everything flows beautifully.,0.95,0.9,0.85,0.8,0.05
+Bad response time from service.,0.1,0.05,0.1,0.1,0.9
+A seamless and efficient device.,0.95,0.9,0.85,0.8,0.05
+It broke after one use.,0.1,0.05,0.1,0.1,0.9
+Totally practical and refined.,0.95,0.9,0.85,0.8,0.05
+They didn’t keep any promises.,0.1,0.05,0.1,0.1,0.9
+Everything just works perfectly.,0.95,0.9,0.85,0.8,0.05
+Had to escalate to get help.,0.1,0.05,0.1,0.1,0.9
+Highly functional and simple.,0.95,0.9,0.85,0.8,0.05
+Worst interface I’ve seen.,0.1,0.05,0.1,0.1,0.9
+Such a great experience.,0.95,0.9,0.85,0.8,0.05
+They never gave feedback.,0.1,0.05,0.1,0.1,0.9
+Incredible quality and smooth flow.,0.95,0.9,0.85,0.8,0.05
+The app kept crashing.,0.1,0.05,0.1,0.1,0.9
+Very neat and professional.,0.95,0.9,0.85,0.8,0.05
+Very poor packaging quality.,0.1,0.05,0.1,0.1,0.9
+"Fast, clean, and effective.",0.95,0.9,0.85,0.8,0.05
+Couldn’t make it run.,0.1,0.05,0.1,0.1,0.9
+Love the build and finish.,0.95,0.9,0.85,0.8,0.05
+Useless product and team.,0.1,0.05,0.1,0.1,0.9
+"Beautiful, easy and intuitive.",0.95,0.9,0.85,0.8,0.05
+They ignored all questions.,0.1,0.05,0.1,0.1,0.9
+Really stunning and functional.,0.95,0.9,0.85,0.8,0.05
+Didn’t receive proper accessories.,0.1,0.05,0.1,0.1,0.9
+Everything went smoothly and quickly.,0.95,0.9,0.85,0.8,0.05
+Can’t recommend it to anyone.,0.1,0.05,0.1,0.1,0.9
+Perfect delivery and excellent design.,0.95,0.9,0.85,0.8,0.05
+Still no answer after many days.,0.1,0.05,0.1,0.1,0.9
+I’m extremely happy with this item.,0.95,0.9,0.85,0.8,0.05
+The device arrived totally broken.,0.1,0.05,0.1,0.1,0.9
+"Fast, stylish, and practical.",0.95,0.9,0.85,0.8,0.05
+They completely ignored my refund request.,0.1,0.05,0.1,0.1,0.9
+Really good flow and finish.,0.95,0.9,0.85,0.8,0.05
+Still unresolved and frustrating.,0.1,0.05,0.1,0.1,0.9
+Great value and thoughtful features.,0.95,0.9,0.85,0.8,0.05
+Zero support after purchase.,0.1,0.05,0.1,0.1,0.9
+Everything was top quality.,0.95,0.9,0.85,0.8,0.05
+No confirmation email received.,0.1,0.05,0.1,0.1,0.9
+Amazing performance and beauty.,0.95,0.9,0.85,0.8,0.05
+They didn't even check my case.,0.1,0.05,0.1,0.1,0.9
+So easy to set up and use.,0.95,0.9,0.85,0.8,0.05
+Very disappointed by the experience.,0.1,0.05,0.1,0.1,0.9
+Visually stunning and quick.,0.95,0.9,0.85,0.8,0.05
+Worst refund experience so far.,0.1,0.05,0.1,0.1,0.9
+"Clean, modern and very smooth.",0.95,0.9,0.85,0.8,0.05
+Tried many times with no help.,0.1,0.05,0.1,0.1,0.9
+Fast and reliable product.,0.95,0.9,0.85,0.8,0.05
+Support was completely useless.,0.1,0.05,0.1,0.1,0.9
+Excellent grip and features.,0.95,0.9,0.85,0.8,0.05
+Can’t believe this happened.,0.1,0.05,0.1,0.1,0.9
+Looks elegant and runs quiet.,0.95,0.9,0.85,0.8,0.05
+No help despite multiple emails.,0.1,0.05,0.1,0.1,0.9
+"Simple, beautiful and stable.",0.95,0.9,0.85,0.8,0.05
+Everything was wrong in the box.,0.1,0.05,0.1,0.1,0.9
+Amazing packaging and delivery.,0.95,0.9,0.85,0.8,0.05
+Didn’t receive what I ordered.,0.1,0.05,0.1,0.1,0.9
+Very polished and well thought.,0.95,0.9,0.85,0.8,0.05
+Return took over three weeks.,0.1,0.05,0.1,0.1,0.9
+High-end look and performance.,0.95,0.9,0.85,0.8,0.05
+Had to complain several times.,0.1,0.05,0.1,0.1,0.9
+Incredible feel and functionality.,0.95,0.9,0.85,0.8,0.05
+They never issued a refund.,0.1,0.05,0.1,0.1,0.9
+Top product in every way.,0.95,0.9,0.85,0.8,0.05
+Nobody responded to my messages.,0.1,0.05,0.1,0.1,0.9
+"Refined, fast and minimal.",0.95,0.9,0.85,0.8,0.05
+Still no reply from the company.,0.1,0.05,0.1,0.1,0.9
+Effortless use and top materials.,0.95,0.9,0.85,0.8,0.05
+Unacceptable delays everywhere.,0.1,0.05,0.1,0.1,0.9
+Very efficient and elegant.,0.95,0.9,0.85,0.8,0.05
+Worst manual ever included.,0.1,0.05,0.1,0.1,0.9
+Love the interaction and flow.,0.95,0.9,0.85,0.8,0.05
+Item didn’t meet expectations.,0.1,0.05,0.1,0.1,0.9
+"Neat, smart, and intuitive.",0.95,0.9,0.85,0.8,0.05
+Broken part included in box.,0.1,0.05,0.1,0.1,0.9
+Pleasant experience and great speed.,0.95,0.9,0.85,0.8,0.05
+Nothing worked right away.,0.1,0.05,0.1,0.1,0.9
+Really practical and refined.,0.95,0.9,0.85,0.8,0.05
+Completely useless instructions.,0.1,0.05,0.1,0.1,0.9
+Elegant visuals and smooth response.,0.95,0.9,0.85,0.8,0.05
+Still waiting on basic support.,0.1,0.05,0.1,0.1,0.9
+Professional handling and finish.,0.95,0.9,0.85,0.8,0.05
+App never started properly.,0.1,0.05,0.1,0.1,0.9
+Everything looks and feels premium.,0.95,0.9,0.85,0.8,0.05
+Return process was awful.,0.1,0.05,0.1,0.1,0.9
+Very elegant and affordable.,0.95,0.9,0.85,0.8,0.05
+Zero attention to my case.,0.1,0.05,0.1,0.1,0.9
+Top experience and great details.,0.95,0.9,0.85,0.8,0.05
+Worst handling by customer service.,0.1,0.05,0.1,0.1,0.9
+Smooth setup and flawless UI.,0.95,0.9,0.85,0.8,0.05
+They forgot a key component.,0.1,0.05,0.1,0.1,0.9
+Extremely well built and clean.,0.95,0.9,0.85,0.8,0.05
+Was a pain to get working.,0.1,0.05,0.1,0.1,0.9
+Awesome UI and simple controls.,0.95,0.9,0.85,0.8,0.05
+They ignored my whole request.,0.1,0.05,0.1,0.1,0.9
+Quick delivery and top usability.,0.95,0.9,0.85,0.8,0.05
+Nothing was configured properly.,0.1,0.05,0.1,0.1,0.9
+Feels like a luxury product.,0.95,0.9,0.85,0.8,0.05
+Many errors during operation.,0.1,0.05,0.1,0.1,0.9
+Satisfying performance and style.,0.95,0.9,0.85,0.8,0.05
+They lied about features.,0.1,0.05,0.1,0.1,0.9
+Highly intuitive and responsive.,0.95,0.9,0.85,0.8,0.05
+Still no tracking or update.,0.1,0.05,0.1,0.1,0.9
+Great performance and beautiful look.,0.95,0.9,0.85,0.8,0.05
+Totally wrong product delivered.,0.1,0.05,0.1,0.1,0.9
+Very solid and stable device.,0.95,0.9,0.85,0.8,0.05
+Nothing helped from their guide.,0.1,0.05,0.1,0.1,0.9
+Super fast and elegant.,0.95,0.9,0.85,0.8,0.05
+Completely failed to assist.,0.1,0.05,0.1,0.1,0.9
+Excellent speed and visuals.,0.95,0.9,0.85,0.8,0.05
+Support was slow and rude.,0.1,0.05,0.1,0.1,0.9
+So intuitive and sharp.,0.95,0.9,0.85,0.8,0.05
+Worst interface for a device.,0.1,0.05,0.1,0.1,0.9
+Product feels premium and sleek.,0.95,0.9,0.85,0.8,0.05
+Return was never processed.,0.1,0.05,0.1,0.1,0.9
+Brilliant setup and workflow.,0.95,0.9,0.85,0.8,0.05
+Couldn’t fix anything with support.,0.1,0.05,0.1,0.1,0.9
+Awesome product and experience.,0.95,0.9,0.85,0.8,0.05
+They made no effort to fix it.,0.1,0.05,0.1,0.1,0.9
+Perfect fit and finish.,0.95,0.9,0.85,0.8,0.05
+I had to troubleshoot alone.,0.1,0.05,0.1,0.1,0.9
+Incredible design and usability.,0.95,0.9,0.85,0.8,0.05
+Really clumsy customer support.,0.1,0.05,0.1,0.1,0.9
+Everything is smooth and accurate.,0.95,0.9,0.85,0.8,0.05
+They didn’t care at all.,0.1,0.05,0.1,0.1,0.9
+Great balance and functionality.,0.95,0.9,0.85,0.8,0.05
+This was a terrible purchase.,0.1,0.05,0.1,0.1,0.9
+Very efficient and smooth product.,0.95,0.9,0.85,0.8,0.05
+They still haven’t fixed my issue.,0.1,0.05,0.1,0.1,0.9
+Awesome structure and intuitive interface.,0.95,0.9,0.85,0.8,0.05
+Worst delivery and follow-up.,0.1,0.05,0.1,0.1,0.9
+Love how clean everything is.,0.95,0.9,0.85,0.8,0.05
+Terrible help from the service team.,0.1,0.05,0.1,0.1,0.9
+Everything works like a charm.,0.95,0.9,0.85,0.8,0.05
+Customer care didn’t listen at all.,0.1,0.05,0.1,0.1,0.9
+Great layout and speed.,0.95,0.9,0.85,0.8,0.05
+The device doesn’t even turn on.,0.1,0.05,0.1,0.1,0.9
+Refined build and design logic.,0.95,0.9,0.85,0.8,0.05
+Still nothing from their support.,0.1,0.05,0.1,0.1,0.9
+Quick setup and nice performance.,0.95,0.9,0.85,0.8,0.05
+Nothing arrived on time again.,0.1,0.05,0.1,0.1,0.9
+Fast response and good feedback.,0.95,0.9,0.85,0.8,0.05
+I had to contact them five times.,0.1,0.05,0.1,0.1,0.9
+Impressive visuals and structure.,0.95,0.9,0.85,0.8,0.05
+They sent me a broken product.,0.1,0.05,0.1,0.1,0.9
+I love the usability here.,0.95,0.9,0.85,0.8,0.05
+Zero response to complaints.,0.1,0.05,0.1,0.1,0.9
+Very stable and good quality.,0.95,0.9,0.85,0.8,0.05
+Still no resolution received.,0.1,0.05,0.1,0.1,0.9
+Extremely smart and lightweight.,0.95,0.9,0.85,0.8,0.05
+No solution was proposed.,0.1,0.05,0.1,0.1,0.9
+Amazing quality and visuals.,0.95,0.9,0.85,0.8,0.05
+I regret buying from them.,0.1,0.05,0.1,0.1,0.9
+Great blend of style and speed.,0.95,0.9,0.85,0.8,0.05
+No one followed up.,0.1,0.05,0.1,0.1,0.9
+Outstanding responsiveness.,0.95,0.9,0.85,0.8,0.05
+Return process was awful.,0.1,0.05,0.1,0.1,0.9
+Flawless and clean interface.,0.95,0.9,0.85,0.8,0.05
+Package was torn and incomplete.,0.1,0.05,0.1,0.1,0.9
+Professional layout and experience.,0.95,0.9,0.85,0.8,0.05
+Couldn’t reach anyone still.,0.1,0.05,0.1,0.1,0.9
+Highly practical and refined.,0.95,0.9,0.85,0.8,0.05
+Every step was a disaster.,0.1,0.05,0.1,0.1,0.9
+Reliable and elegant look.,0.95,0.9,0.85,0.8,0.05
+They refused to refund me.,0.1,0.05,0.1,0.1,0.9
+Modern and very usable product.,0.95,0.9,0.85,0.8,0.05
+Still no explanation provided.,0.1,0.05,0.1,0.1,0.9
+Feels premium and fluid.,0.95,0.9,0.85,0.8,0.05
+Support was slow and ineffective.,0.1,0.05,0.1,0.1,0.9
+Nice balance of power and control.,0.95,0.9,0.85,0.8,0.05
+Worst customer journey I had.,0.1,0.05,0.1,0.1,0.9
+Neat product and logical flow.,0.95,0.9,0.85,0.8,0.05
+Still unresolved and ignored.,0.1,0.05,0.1,0.1,0.9
+Polished UI and excellent form.,0.95,0.9,0.85,0.8,0.05
+They just stopped replying.,0.1,0.05,0.1,0.1,0.9
+Effortless and enjoyable experience.,0.95,0.9,0.85,0.8,0.05
+Nothing worked properly again.,0.1,0.05,0.1,0.1,0.9
+"Stylish, modern and responsive.",0.95,0.9,0.85,0.8,0.05
+Awful return service.,0.1,0.05,0.1,0.1,0.9
+The structure is brilliant.,0.95,0.9,0.85,0.8,0.05
+Couldn’t make it work at all.,0.1,0.05,0.1,0.1,0.9
+Everything is seamless and fast.,0.95,0.9,0.85,0.8,0.05
+Refund request ignored.,0.1,0.05,0.1,0.1,0.9
+Professional look and feel.,0.95,0.9,0.85,0.8,0.05
+Had to contact them again and again.,0.1,0.05,0.1,0.1,0.9
+Great delivery and setup.,0.95,0.9,0.85,0.8,0.05
+The product didn’t even start.,0.1,0.05,0.1,0.1,0.9
+Very thoughtful and smart design.,0.95,0.9,0.85,0.8,0.05
+Totally unusable experience.,0.1,0.05,0.1,0.1,0.9
+Super sharp and responsive.,0.95,0.9,0.85,0.8,0.05
+They never sent confirmation.,0.1,0.05,0.1,0.1,0.9
+Wonderful quality and speed.,0.95,0.9,0.85,0.8,0.05
+Worst product manual ever.,0.1,0.05,0.1,0.1,0.9
+Highly intuitive structure.,0.95,0.9,0.85,0.8,0.05
+Nothing they said was true.,0.1,0.05,0.1,0.1,0.9
+Nice execution and logic.,0.95,0.9,0.85,0.8,0.05
+Support did absolutely nothing.,0.1,0.05,0.1,0.1,0.9
+Really fast and easy to use.,0.95,0.9,0.85,0.8,0.05
+Disappointed again by the team.,0.1,0.05,0.1,0.1,0.9
+Refined interface and form.,0.95,0.9,0.85,0.8,0.05
+Nothing matched the description.,0.1,0.05,0.1,0.1,0.9
+All features worked perfectly.,0.95,0.9,0.85,0.8,0.05
+The charger didn’t work.,0.1,0.05,0.1,0.1,0.9
+Impressive visuals and clarity.,0.95,0.9,0.85,0.8,0.05
+Completely ignored my requests.,0.1,0.05,0.1,0.1,0.9
+Simple to handle and run.,0.95,0.9,0.85,0.8,0.05
+Had to argue for days.,0.1,0.05,0.1,0.1,0.9
+Top-level material and look.,0.95,0.9,0.85,0.8,0.05
+Still no result or refund.,0.1,0.05,0.1,0.1,0.9
+Fantastic shape and system.,0.95,0.9,0.85,0.8,0.05
+Worst item I’ve received.,0.1,0.05,0.1,0.1,0.9
+Perfect transition and layout.,0.95,0.9,0.85,0.8,0.05
+No help from their email.,0.1,0.05,0.1,0.1,0.9
+Amazing interaction and speed.,0.95,0.9,0.85,0.8,0.05
+The item stopped working fast.,0.1,0.05,0.1,0.1,0.9
+Smart and attractive appearance.,0.95,0.9,0.85,0.8,0.05
+Couldn’t even register the device.,0.1,0.05,0.1,0.1,0.9
+Everything loaded very quickly.,0.95,0.9,0.85,0.8,0.05
+Return process was exhausting.,0.1,0.05,0.1,0.1,0.9
+"Fast, fluid and functional.",0.95,0.9,0.85,0.8,0.05
+I had to solve it myself.,0.1,0.05,0.1,0.1,0.9
+So elegant and efficient.,0.95,0.9,0.85,0.8,0.05
+Worst technical assistance.,0.1,0.05,0.1,0.1,0.9
+Powerful and quiet operation.,0.95,0.9,0.85,0.8,0.05
+No response on complaint ticket.,0.1,0.05,0.1,0.1,0.9
+Great quality and amazing feel.,0.95,0.9,0.85,0.8,0.05
+They mishandled the entire case.,0.1,0.05,0.1,0.1,0.9
+Everything runs so fluid and quick.,0.95,0.9,0.85,0.8,0.05
+They haven’t responded in days.,0.1,0.05,0.1,0.1,0.9
+Excellent balance and performance.,0.95,0.9,0.85,0.8,0.05
+Horrible packaging and missing items.,0.1,0.05,0.1,0.1,0.9
+Super intuitive and refined device.,0.95,0.9,0.85,0.8,0.05
+Still waiting for any response.,0.1,0.05,0.1,0.1,0.9
+Looks beautiful and works fast.,0.95,0.9,0.85,0.8,0.05
+Support just stopped replying.,0.1,0.05,0.1,0.1,0.9
+Very stylish and efficient.,0.95,0.9,0.85,0.8,0.05
+Still broken after weeks.,0.1,0.05,0.1,0.1,0.9
+Perfect layout and structure.,0.95,0.9,0.85,0.8,0.05
+They never fixed the issue.,0.1,0.05,0.1,0.1,0.9
+Clean interface and fast load.,0.95,0.9,0.85,0.8,0.05
+Absolutely no help provided.,0.1,0.05,0.1,0.1,0.9
+Fantastic design and workflow.,0.95,0.9,0.85,0.8,0.05
+I got nothing useful from them.,0.1,0.05,0.1,0.1,0.9
+Elegant UI and seamless process.,0.95,0.9,0.85,0.8,0.05
+Support ignored all messages.,0.1,0.05,0.1,0.1,0.9
+Brilliant performance and form.,0.95,0.9,0.85,0.8,0.05
+Still trying to return it.,0.1,0.05,0.1,0.1,0.9
+Extremely practical and light.,0.95,0.9,0.85,0.8,0.05
+Very bad return experience.,0.1,0.05,0.1,0.1,0.9
+Great visuals and interaction.,0.95,0.9,0.85,0.8,0.05
+Didn’t process my request.,0.1,0.05,0.1,0.1,0.9
+Refined features and polish.,0.95,0.9,0.85,0.8,0.05
+Completely messed up my order.,0.1,0.05,0.1,0.1,0.9
+Beautiful and professional system.,0.95,0.9,0.85,0.8,0.05
+Took weeks to get support.,0.1,0.05,0.1,0.1,0.9
+Reliable and fast experience.,0.95,0.9,0.85,0.8,0.05
+No help even after escalation.,0.1,0.05,0.1,0.1,0.9
+Wonderful usability and design.,0.95,0.9,0.85,0.8,0.05
+Worst refund system I’ve seen.,0.1,0.05,0.1,0.1,0.9
+Neat and structured build.,0.95,0.9,0.85,0.8,0.05
+Not working after all updates.,0.1,0.05,0.1,0.1,0.9
+High-end finish and usability.,0.95,0.9,0.85,0.8,0.05
+Useless assistance again.,0.1,0.05,0.1,0.1,0.9
+Sleek experience and easy to use.,0.95,0.9,0.85,0.8,0.05
+Still no email from them.,0.1,0.05,0.1,0.1,0.9
+Amazing visuals and quiet system.,0.95,0.9,0.85,0.8,0.05
+No solution was offered.,0.1,0.05,0.1,0.1,0.9
+Perfect workflow and style.,0.95,0.9,0.85,0.8,0.05
+Awful product support.,0.1,0.05,0.1,0.1,0.9
+Very responsive and elegant.,0.95,0.9,0.85,0.8,0.05
+I feel completely ignored.,0.1,0.05,0.1,0.1,0.9
+Super modern and fast-paced.,0.95,0.9,0.85,0.8,0.05
+Still no tracking available.,0.1,0.05,0.1,0.1,0.9
+Top-notch handling and speed.,0.95,0.9,0.85,0.8,0.05
+No working product received.,0.1,0.05,0.1,0.1,0.9
+So clean and straightforward.,0.95,0.9,0.85,0.8,0.05
+Couldn’t even install it.,0.1,0.05,0.1,0.1,0.9
+Highly polished and stable.,0.95,0.9,0.85,0.8,0.05
+They refused to cooperate.,0.1,0.05,0.1,0.1,0.9
+Everything fits together nicely.,0.95,0.9,0.85,0.8,0.05
+I received the wrong model.,0.1,0.05,0.1,0.1,0.9
+Just perfect in every way.,0.95,0.9,0.85,0.8,0.05
+Their response was disappointing.,0.1,0.05,0.1,0.1,0.9
+Luxurious shape and function.,0.95,0.9,0.85,0.8,0.05
+Still broken after replacement.,0.1,0.05,0.1,0.1,0.9
+"Professional, smooth experience.",0.95,0.9,0.85,0.8,0.05
+They didn’t offer help at all.,0.1,0.05,0.1,0.1,0.9
+The performance is outstanding.,0.95,0.9,0.85,0.8,0.05
+Couldn’t get through to anyone.,0.1,0.05,0.1,0.1,0.9
+Looks stunning and elegant.,0.95,0.9,0.85,0.8,0.05
+Very unhelpful technical team.,0.1,0.05,0.1,0.1,0.9
+Works perfectly and fast.,0.95,0.9,0.85,0.8,0.05
+No attention to customer concern.,0.1,0.05,0.1,0.1,0.9
+So lightweight and advanced.,0.95,0.9,0.85,0.8,0.05
+No tracking sent till now.,0.1,0.05,0.1,0.1,0.9
+Feels complete and intuitive.,0.95,0.9,0.85,0.8,0.05
+Very poor customer service.,0.1,0.05,0.1,0.1,0.9
+Super clear and accurate.,0.95,0.9,0.85,0.8,0.05
+Had to open a dispute.,0.1,0.05,0.1,0.1,0.9
+High performance and reliability.,0.95,0.9,0.85,0.8,0.05
+The product never worked.,0.1,0.05,0.1,0.1,0.9
+Intuitive and easy to navigate.,0.95,0.9,0.85,0.8,0.05
+Terrible help during the return.,0.1,0.05,0.1,0.1,0.9
+Fast interaction and layout.,0.95,0.9,0.85,0.8,0.05
+Still unresolved after many emails.,0.1,0.05,0.1,0.1,0.9
+Neat experience and visuals.,0.95,0.9,0.85,0.8,0.05
+They never confirmed my order.,0.1,0.05,0.1,0.1,0.9
+Solid features and usage.,0.95,0.9,0.85,0.8,0.05
+Couldn’t contact anyone at all.,0.1,0.05,0.1,0.1,0.9
+Perfect blend of design and use.,0.95,0.9,0.85,0.8,0.05
+Bad shipping and slow reply.,0.1,0.05,0.1,0.1,0.9
+Nice grip and smooth performance.,0.95,0.9,0.85,0.8,0.05
+Nothing worked from the start.,0.1,0.05,0.1,0.1,0.9
+Really efficient and beautiful.,0.95,0.9,0.85,0.8,0.05
+Everything was broken inside.,0.1,0.05,0.1,0.1,0.9
+Feels natural and comfortable.,0.95,0.9,0.85,0.8,0.05
+Never got the correct item.,0.1,0.05,0.1,0.1,0.9
+Fast to boot and clean to use.,0.95,0.9,0.85,0.8,0.05
+Horrible refund experience again.,0.1,0.05,0.1,0.1,0.9
+Wonderful visuals and response.,0.95,0.9,0.85,0.8,0.05
+Support was a nightmare.,0.1,0.05,0.1,0.1,0.9
+Refined visuals and functions.,0.95,0.9,0.85,0.8,0.05
+No usable manual included.,0.1,0.05,0.1,0.1,0.9
+Satisfying and quick device.,0.95,0.9,0.85,0.8,0.05
+Nobody helped me at all.,0.1,0.05,0.1,0.1,0.9
+Very simple and powerful.,0.95,0.9,0.85,0.8,0.05
+Still not functioning properly.,0.1,0.05,0.1,0.1,0.9
+Fast and clean design overall.,0.95,0.9,0.85,0.8,0.05
+Still waiting for their response.,0.1,0.05,0.1,0.1,0.9
+Super intuitive and smooth device.,0.95,0.9,0.85,0.8,0.05
+Worst follow-up experience ever.,0.1,0.05,0.1,0.1,0.9
+Excellent visuals and structure.,0.95,0.9,0.85,0.8,0.05
+They didn’t respond again.,0.1,0.05,0.1,0.1,0.9
+Top usability and performance.,0.95,0.9,0.85,0.8,0.05
+The support was totally absent.,0.1,0.05,0.1,0.1,0.9
+"Sleek, fast and very reliable.",0.95,0.9,0.85,0.8,0.05
+Still broken and unresolved.,0.1,0.05,0.1,0.1,0.9
+Everything works like expected.,0.95,0.9,0.85,0.8,0.05
+I regret buying from them.,0.1,0.05,0.1,0.1,0.9
+Very modern and efficient look.,0.95,0.9,0.85,0.8,0.05
+Worst refund and delivery issues.,0.1,0.05,0.1,0.1,0.9
+Everything feels natural and refined.,0.95,0.9,0.85,0.8,0.05
+Support was useless again.,0.1,0.05,0.1,0.1,0.9
+Fantastic device and interaction.,0.95,0.9,0.85,0.8,0.05
+They ignored all tickets.,0.1,0.05,0.1,0.1,0.9
+"Quick, light and easy to use.",0.95,0.9,0.85,0.8,0.05
+Still no resolution from them.,0.1,0.05,0.1,0.1,0.9
+Great layout and amazing visuals.,0.95,0.9,0.85,0.8,0.05
+Delivery was a disaster.,0.1,0.05,0.1,0.1,0.9
+Feels premium and effortless.,0.95,0.9,0.85,0.8,0.05
+Nobody processed my issue.,0.1,0.05,0.1,0.1,0.9
+Clear structure and logic.,0.95,0.9,0.85,0.8,0.05
+Still no answer for my complaint.,0.1,0.05,0.1,0.1,0.9
+Fast and simple setup.,0.95,0.9,0.85,0.8,0.05
+No reply from their team yet.,0.1,0.05,0.1,0.1,0.9
+Reliable features and great flow.,0.95,0.9,0.85,0.8,0.05
+Couldn’t use the warranty.,0.1,0.05,0.1,0.1,0.9
+Clean interface and sharp design.,0.95,0.9,0.85,0.8,0.05
+Very poor support process.,0.1,0.05,0.1,0.1,0.9
+Wonderful experience with this product.,0.95,0.9,0.85,0.8,0.05
+They completely ignored my emails.,0.1,0.05,0.1,0.1,0.9
+Easy to learn and navigate.,0.95,0.9,0.85,0.8,0.05
+Still nothing after escalation.,0.1,0.05,0.1,0.1,0.9
+"Responsive, fast and stable.",0.95,0.9,0.85,0.8,0.05
+Worst return time ever.,0.1,0.05,0.1,0.1,0.9
+Neat design and usability.,0.95,0.9,0.85,0.8,0.05
+I had to fix it manually.,0.1,0.05,0.1,0.1,0.9
+So satisfying and intuitive.,0.95,0.9,0.85,0.8,0.05
+No one from support contacted me.,0.1,0.05,0.1,0.1,0.9
+Feels like a professional tool.,0.95,0.9,0.85,0.8,0.05
+Still unresolved after weeks.,0.1,0.05,0.1,0.1,0.9
+"Polished, reliable and quick.",0.95,0.9,0.85,0.8,0.05
+Worst item I’ve ever ordered.,0.1,0.05,0.1,0.1,0.9
+All features work seamlessly.,0.95,0.9,0.85,0.8,0.05
+Nothing was fixed so far.,0.1,0.05,0.1,0.1,0.9
+Very responsive and thoughtful.,0.95,0.9,0.85,0.8,0.05
+They never apologized.,0.1,0.05,0.1,0.1,0.9
+Perfect visuals and interaction.,0.95,0.9,0.85,0.8,0.05
+The item was incomplete.,0.1,0.05,0.1,0.1,0.9
+Beautifully designed and practical.,0.95,0.9,0.85,0.8,0.05
+They don’t care at all.,0.1,0.05,0.1,0.1,0.9
+Totally refined and stable.,0.95,0.9,0.85,0.8,0.05
+Still waiting on a reply.,0.1,0.05,0.1,0.1,0.9
+Wonderful shape and function.,0.95,0.9,0.85,0.8,0.05
+Worst tech experience I had.,0.1,0.05,0.1,0.1,0.9
+Really usable and nice feel.,0.95,0.9,0.85,0.8,0.05
+Awful installation process.,0.1,0.05,0.1,0.1,0.9
+Great speed and elegant form.,0.95,0.9,0.85,0.8,0.05
+No feedback from the team.,0.1,0.05,0.1,0.1,0.9
+Effortless control and clarity.,0.95,0.9,0.85,0.8,0.05
+Didn’t resolve my request.,0.1,0.05,0.1,0.1,0.9
+Luxurious and fast interface.,0.95,0.9,0.85,0.8,0.05
+Nothing was working correctly.,0.1,0.05,0.1,0.1,0.9
+Professional finish and layout.,0.95,0.9,0.85,0.8,0.05
+Still having the same issue.,0.1,0.05,0.1,0.1,0.9
+Looks modern and operates smoothly.,0.95,0.9,0.85,0.8,0.05
+The return took forever.,0.1,0.05,0.1,0.1,0.9
+Perfectly responsive and useful.,0.95,0.9,0.85,0.8,0.05
+Team didn’t help at all.,0.1,0.05,0.1,0.1,0.9
+Super smooth and reliable.,0.95,0.9,0.85,0.8,0.05
+Worst handling of refund ever.,0.1,0.05,0.1,0.1,0.9
+User-friendly and clean flow.,0.95,0.9,0.85,0.8,0.05
+Customer care never followed up.,0.1,0.05,0.1,0.1,0.9
+Intelligent and clean structure.,0.95,0.9,0.85,0.8,0.05
+Couldn’t complete the setup.,0.1,0.05,0.1,0.1,0.9
+Very ergonomic and simple.,0.95,0.9,0.85,0.8,0.05
+Support team is terrible.,0.1,0.05,0.1,0.1,0.9
+Flawless UI and performance.,0.95,0.9,0.85,0.8,0.05
+Refund was not processed.,0.1,0.05,0.1,0.1,0.9
+Intuitive build and smart controls.,0.95,0.9,0.85,0.8,0.05
+Didn’t fix the product.,0.1,0.05,0.1,0.1,0.9
+Just elegant and well structured.,0.95,0.9,0.85,0.8,0.05
+The entire system failed.,0.1,0.05,0.1,0.1,0.9
+Great polish and quality.,0.95,0.9,0.85,0.8,0.05
+Not usable without updates.,0.1,0.05,0.1,0.1,0.9
+Very elegant and strong.,0.95,0.9,0.85,0.8,0.05
+Support refused to cooperate.,0.1,0.05,0.1,0.1,0.9
+Truly premium and efficient.,0.95,0.9,0.85,0.8,0.05
+Nothing is functioning properly.,0.1,0.05,0.1,0.1,0.9
+Very intuitive and organized.,0.95,0.9,0.85,0.8,0.05
+Terrible delay with support.,0.1,0.05,0.1,0.1,0.9
+Super functional and silent.,0.95,0.9,0.85,0.8,0.05
+Never heard back from anyone.,0.1,0.05,0.1,0.1,0.9
+Highly reliable and fast.,0.95,0.9,0.85,0.8,0.05
+Couldn’t get a refund.,0.1,0.05,0.1,0.1,0.9
+Lovely finish and usability.,0.95,0.9,0.85,0.8,0.05
+Team was not responsive.,0.1,0.05,0.1,0.1,0.9
+Fast performance and elegant layout.,0.95,0.9,0.85,0.8,0.05
+They didn’t answer my emails.,0.1,0.05,0.1,0.1,0.9
+Very intuitive and efficient product.,0.95,0.9,0.85,0.8,0.05
+Still no solution from their team.,0.1,0.05,0.1,0.1,0.9
+Looks modern and works smoothly.,0.95,0.9,0.85,0.8,0.05
+Support was totally unresponsive.,0.1,0.05,0.1,0.1,0.9
+Excellent speed and simplicity.,0.95,0.9,0.85,0.8,0.05
+They never replied to my issue.,0.1,0.05,0.1,0.1,0.9
+Great functionality and visual design.,0.95,0.9,0.85,0.8,0.05
+Still broken and unresolved.,0.1,0.05,0.1,0.1,0.9
+Nice structure and easy to handle.,0.95,0.9,0.85,0.8,0.05
+No help was offered at all.,0.1,0.05,0.1,0.1,0.9
+Very professional and clean look.,0.95,0.9,0.85,0.8,0.05
+Support didn’t respond properly.,0.1,0.05,0.1,0.1,0.9
+Polished experience and smart flow.,0.95,0.9,0.85,0.8,0.05
+No confirmation received yet.,0.1,0.05,0.1,0.1,0.9
+Super organized and efficient system.,0.95,0.9,0.85,0.8,0.05
+Nothing got resolved so far.,0.1,0.05,0.1,0.1,0.9
+Fast and reliable functionality.,0.95,0.9,0.85,0.8,0.05
+They didn’t send the invoice.,0.1,0.05,0.1,0.1,0.9
+Extremely smooth and clean.,0.95,0.9,0.85,0.8,0.05
+The team never responded.,0.1,0.05,0.1,0.1,0.9
+Perfect appearance and usage.,0.95,0.9,0.85,0.8,0.05
+Still trying to get feedback.,0.1,0.05,0.1,0.1,0.9
+Responsive and logical structure.,0.95,0.9,0.85,0.8,0.05
+Worst support case ever.,0.1,0.05,0.1,0.1,0.9
+Everything loaded instantly.,0.95,0.9,0.85,0.8,0.05
+I had to fix everything.,0.1,0.05,0.1,0.1,0.9
+Very quick and minimal.,0.95,0.9,0.85,0.8,0.05
+Still broken after return.,0.1,0.05,0.1,0.1,0.9
+Reliable and stable experience.,0.95,0.9,0.85,0.8,0.05
+Team didn’t act on my case.,0.1,0.05,0.1,0.1,0.9
+Modern visuals and solid build.,0.95,0.9,0.85,0.8,0.05
+Nobody replied to my concerns.,0.1,0.05,0.1,0.1,0.9
+Fantastic system and polish.,0.95,0.9,0.85,0.8,0.05
+Couldn’t get proper assistance.,0.1,0.05,0.1,0.1,0.9
+Very simple and elegant.,0.95,0.9,0.85,0.8,0.05
+Horrible technical response.,0.1,0.05,0.1,0.1,0.9
+Excellent precision and clarity.,0.95,0.9,0.85,0.8,0.05
+Never got my replacement.,0.1,0.05,0.1,0.1,0.9
+Nice handling and interaction.,0.95,0.9,0.85,0.8,0.05
+Refund still pending after weeks.,0.1,0.05,0.1,0.1,0.9
+Satisfying structure and visuals.,0.95,0.9,0.85,0.8,0.05
+No working link was sent.,0.1,0.05,0.1,0.1,0.9
+Refined setup and process.,0.95,0.9,0.85,0.8,0.05
+Had to restart everything.,0.1,0.05,0.1,0.1,0.9
+Everything just feels premium.,0.95,0.9,0.85,0.8,0.05
+I’m tired of waiting for help.,0.1,0.05,0.1,0.1,0.9
+Top usability and quiet performance.,0.95,0.9,0.85,0.8,0.05
+No progress from their team.,0.1,0.05,0.1,0.1,0.9
+Perfect product with smart layout.,0.95,0.9,0.85,0.8,0.05
+Still unresolved for days.,0.1,0.05,0.1,0.1,0.9
+Clean navigation and great look.,0.95,0.9,0.85,0.8,0.05
+Worst customer support experience.,0.1,0.05,0.1,0.1,0.9
+Responsive and fast interface.,0.95,0.9,0.85,0.8,0.05
+No one took responsibility.,0.1,0.05,0.1,0.1,0.9
+Professional interaction and layout.,0.95,0.9,0.85,0.8,0.05
+Nobody is handling my complaint.,0.1,0.05,0.1,0.1,0.9
+Fluent control and performance.,0.95,0.9,0.85,0.8,0.05
+Still no update from them.,0.1,0.05,0.1,0.1,0.9
+Great experience and setup.,0.95,0.9,0.85,0.8,0.05
+Support ignored the whole thing.,0.1,0.05,0.1,0.1,0.9
+Very clever design and use.,0.95,0.9,0.85,0.8,0.05
+Still facing the same issue.,0.1,0.05,0.1,0.1,0.9
+Easy to use and powerful.,0.95,0.9,0.85,0.8,0.05
+Never received a call back.,0.1,0.05,0.1,0.1,0.9
+Outstanding visuals and shape.,0.95,0.9,0.85,0.8,0.05
+Still no follow-up email.,0.1,0.05,0.1,0.1,0.9
+Totally smart and functional.,0.95,0.9,0.85,0.8,0.05
+They gave me no solution.,0.1,0.05,0.1,0.1,0.9
+Excellent product build quality.,0.95,0.9,0.85,0.8,0.05
+No help was available online.,0.1,0.05,0.1,0.1,0.9
+Fast delivery and usability.,0.95,0.9,0.85,0.8,0.05
+They acted like it was nothing.,0.1,0.05,0.1,0.1,0.9
+Great performance and visuals.,0.95,0.9,0.85,0.8,0.05
+My issue was completely ignored.,0.1,0.05,0.1,0.1,0.9
+Very stable and functional.,0.95,0.9,0.85,0.8,0.05
+Still nothing from their support.,0.1,0.05,0.1,0.1,0.9
+Works flawlessly every time.,0.95,0.9,0.85,0.8,0.05
+Nobody explained the problem.,0.1,0.05,0.1,0.1,0.9
+Reliable device and beautiful layout.,0.95,0.9,0.85,0.8,0.05
+No attempt to contact me.,0.1,0.05,0.1,0.1,0.9
+Very fast and refined.,0.95,0.9,0.85,0.8,0.05
+Still facing trouble with it.,0.1,0.05,0.1,0.1,0.9
+Clean interface and smooth logic.,0.95,0.9,0.85,0.8,0.05
+Worst platform experience.,0.1,0.05,0.1,0.1,0.9
+Perfectly executed and stylish.,0.95,0.9,0.85,0.8,0.05
+Still can’t access features.,0.1,0.05,0.1,0.1,0.9
+Effortless setup and usage.,0.95,0.9,0.85,0.8,0.05
+The whole process was broken.,0.1,0.05,0.1,0.1,0.9
+Really great control and speed.,0.95,0.9,0.85,0.8,0.05
+Still waiting for assistance.,0.1,0.05,0.1,0.1,0.9
+Neat design and efficient system.,0.95,0.9,0.85,0.8,0.05
+They didn’t even respond.,0.1,0.05,0.1,0.1,0.9
+Fantastic layout and handling.,0.95,0.9,0.85,0.8,0.05
+They abandoned my complaint.,0.1,0.05,0.1,0.1,0.9
+Smart and user-friendly.,0.95,0.9,0.85,0.8,0.05
+No action from their end.,0.1,0.05,0.1,0.1,0.9
+Super effective and fluid.,0.95,0.9,0.85,0.8,0.05
+Still no help from the company.,0.1,0.05,0.1,0.1,0.9
+Super fast and well-structured product.,0.95,0.9,0.85,0.8,0.05
+No one has responded to me yet.,0.1,0.05,0.1,0.1,0.9
+Clean visuals and intuitive layout.,0.95,0.9,0.85,0.8,0.05
+Still no help from the support team.,0.1,0.05,0.1,0.1,0.9
+Perfect speed and control.,0.95,0.9,0.85,0.8,0.05
+Support doesn’t care about complaints.,0.1,0.05,0.1,0.1,0.9
+Very modern and elegant.,0.95,0.9,0.85,0.8,0.05
+Still unresolved and pending.,0.1,0.05,0.1,0.1,0.9
+Top usability and aesthetics.,0.95,0.9,0.85,0.8,0.05
+They never fixed the issue.,0.1,0.05,0.1,0.1,0.9
+Wonderful design and speed.,0.95,0.9,0.85,0.8,0.05
+I’m still waiting for any feedback.,0.1,0.05,0.1,0.1,0.9
+Elegant system and smooth UI.,0.95,0.9,0.85,0.8,0.05
+No solution after several emails.,0.1,0.05,0.1,0.1,0.9
+Highly responsive and stable.,0.95,0.9,0.85,0.8,0.05
+Worst customer care ever.,0.1,0.05,0.1,0.1,0.9
+Everything runs perfectly.,0.95,0.9,0.85,0.8,0.05
+Still not resolved after escalation.,0.1,0.05,0.1,0.1,0.9
+Very practical and powerful.,0.95,0.9,0.85,0.8,0.05
+I got no useful replies.,0.1,0.05,0.1,0.1,0.9
+Quick setup and refined design.,0.95,0.9,0.85,0.8,0.05
+They failed to support me.,0.1,0.05,0.1,0.1,0.9
+Feels complete and reliable.,0.95,0.9,0.85,0.8,0.05
+No action has been taken.,0.1,0.05,0.1,0.1,0.9
+Smooth experience overall.,0.95,0.9,0.85,0.8,0.05
+Team didn’t handle it properly.,0.1,0.05,0.1,0.1,0.9
+Excellent flow and visuals.,0.95,0.9,0.85,0.8,0.05
+No guidance provided by support.,0.1,0.05,0.1,0.1,0.9
+Really efficient device.,0.95,0.9,0.85,0.8,0.05
+Still no return confirmation.,0.1,0.05,0.1,0.1,0.9
+Strong and professional feel.,0.95,0.9,0.85,0.8,0.05
+They didn’t help at all.,0.1,0.05,0.1,0.1,0.9
+Nice usability and polished layout.,0.95,0.9,0.85,0.8,0.05
+Didn’t receive any clarification.,0.1,0.05,0.1,0.1,0.9
+Smart design and clean interface.,0.95,0.9,0.85,0.8,0.05
+Nobody explained the issue clearly.,0.1,0.05,0.1,0.1,0.9
+Very robust and intuitive.,0.95,0.9,0.85,0.8,0.05
+Still nothing from the team.,0.1,0.05,0.1,0.1,0.9
+Fast delivery and beautiful UI.,0.95,0.9,0.85,0.8,0.05
+Support ignored the request.,0.1,0.05,0.1,0.1,0.9
+High-end finish and control.,0.95,0.9,0.85,0.8,0.05
+They didn’t do anything useful.,0.1,0.05,0.1,0.1,0.9
+Very good control and structure.,0.95,0.9,0.85,0.8,0.05
+Return request was denied.,0.1,0.05,0.1,0.1,0.9
+Elegant structure and stable use.,0.95,0.9,0.85,0.8,0.05
+Still broken after complaint.,0.1,0.05,0.1,0.1,0.9
+Professional handling and ease.,0.95,0.9,0.85,0.8,0.05
+Worst experience with support.,0.1,0.05,0.1,0.1,0.9
+Excellent usage and style.,0.95,0.9,0.85,0.8,0.05
+Nothing arrived properly packaged.,0.1,0.05,0.1,0.1,0.9
+Super logical and easy to use.,0.95,0.9,0.85,0.8,0.05
+Support refused to help.,0.1,0.05,0.1,0.1,0.9
+Perfect usability and speed.,0.95,0.9,0.85,0.8,0.05
+No resolution after a week.,0.1,0.05,0.1,0.1,0.9
+Very efficient and simple.,0.95,0.9,0.85,0.8,0.05
+They delayed every response.,0.1,0.05,0.1,0.1,0.9
+User-friendly layout and build.,0.95,0.9,0.85,0.8,0.05
+Still unresolved by the team.,0.1,0.05,0.1,0.1,0.9
+Beautiful appearance and flow.,0.95,0.9,0.85,0.8,0.05
+Nothing worked after delivery.,0.1,0.05,0.1,0.1,0.9
+Smooth operation and elegant UI.,0.95,0.9,0.85,0.8,0.05
+Customer care didn’t follow up.,0.1,0.05,0.1,0.1,0.9
+Top performance and build quality.,0.95,0.9,0.85,0.8,0.05
+Still no help provided.,0.1,0.05,0.1,0.1,0.9
+Very stylish and functional.,0.95,0.9,0.85,0.8,0.05
+Couldn’t reach support at all.,0.1,0.05,0.1,0.1,0.9
+High performance and logic.,0.95,0.9,0.85,0.8,0.05
+Still facing setup issues.,0.1,0.05,0.1,0.1,0.9
+Professional look and smooth controls.,0.95,0.9,0.85,0.8,0.05
+Support doesn’t work weekends.,0.1,0.05,0.1,0.1,0.9
+Fast interface and top structure.,0.95,0.9,0.85,0.8,0.05
+Never received the package.,0.1,0.05,0.1,0.1,0.9
+Clear navigation and smart UI.,0.95,0.9,0.85,0.8,0.05
+Very unhelpful and slow.,0.1,0.05,0.1,0.1,0.9
+Modern features and precision.,0.95,0.9,0.85,0.8,0.05
+Had to contact multiple times.,0.1,0.05,0.1,0.1,0.9
+Elegant visuals and usability.,0.95,0.9,0.85,0.8,0.05
+Nothing was resolved.,0.1,0.05,0.1,0.1,0.9
+Satisfying design and performance.,0.95,0.9,0.85,0.8,0.05
+They sent the wrong product.,0.1,0.05,0.1,0.1,0.9
+Feels fast and powerful.,0.95,0.9,0.85,0.8,0.05
+Didn’t get the promised help.,0.1,0.05,0.1,0.1,0.9
+Reliable performance and feel.,0.95,0.9,0.85,0.8,0.05
+Still no callback received.,0.1,0.05,0.1,0.1,0.9
+High-quality design and logic.,0.95,0.9,0.85,0.8,0.05
+Had to fix things alone.,0.1,0.05,0.1,0.1,0.9
+Very quiet and refined.,0.95,0.9,0.85,0.8,0.05
+They didn’t reply again.,0.1,0.05,0.1,0.1,0.9
+Looks great and runs well.,0.95,0.9,0.85,0.8,0.05
+No feedback at all.,0.1,0.05,0.1,0.1,0.9
+Super polished and easy to use.,0.95,0.9,0.85,0.8,0.05
+Refund request still open.,0.1,0.05,0.1,0.1,0.9
+Elegant and functional system.,0.95,0.9,0.85,0.8,0.05
+No help was received yet.,0.1,0.05,0.1,0.1,0.9
+Awesome UI and performance.,0.95,0.9,0.85,0.8,0.05
+Nobody replied so far.,0.1,0.05,0.1,0.1,0.9
+Perfect layout and smooth transitions.,0.95,0.9,0.85,0.8,0.05
+Still broken after weeks.,0.1,0.05,0.1,0.1,0.9
+Highly stable and user-friendly.,0.95,0.9,0.85,0.8,0.05
+No proper support at all.,0.1,0.05,0.1,0.1,0.9
+Clean performance and flawless visuals.,0.95,0.9,0.85,0.8,0.05
+No action was ever taken.,0.1,0.05,0.1,0.1,0.9
+Smooth operation and beautiful flow.,0.95,0.9,0.85,0.8,0.05
+Still no confirmation or help.,0.1,0.05,0.1,0.1,0.9
+Very responsive and modern design.,0.95,0.9,0.85,0.8,0.05
+They refused to help at all.,0.1,0.05,0.1,0.1,0.9
+Elegant design and easy usage.,0.95,0.9,0.85,0.8,0.05
+Nothing is working correctly yet.,0.1,0.05,0.1,0.1,0.9
+Great visuals and well-built layout.,0.95,0.9,0.85,0.8,0.05
+Still unresolved after support ticket.,0.1,0.05,0.1,0.1,0.9
+Polished device and intuitive control.,0.95,0.9,0.85,0.8,0.05
+No clear answers from the team.,0.1,0.05,0.1,0.1,0.9
+Top aesthetics and performance.,0.95,0.9,0.85,0.8,0.05
+Still broken after replacement.,0.1,0.05,0.1,0.1,0.9
+Very simple and clean navigation.,0.95,0.9,0.85,0.8,0.05
+Support never responded at all.,0.1,0.05,0.1,0.1,0.9
+Impressive speed and smoothness.,0.95,0.9,0.85,0.8,0.05
+Nobody resolved the problem.,0.1,0.05,0.1,0.1,0.9
+Excellent handling and finish.,0.95,0.9,0.85,0.8,0.05
+I never got a reply back.,0.1,0.05,0.1,0.1,0.9
+Wonderful interface and design.,0.95,0.9,0.85,0.8,0.05
+They didn’t even try to help.,0.1,0.05,0.1,0.1,0.9
+Neat layout and fast interaction.,0.95,0.9,0.85,0.8,0.05
+No updates since I reported it.,0.1,0.05,0.1,0.1,0.9
+Highly usable and smart product.,0.95,0.9,0.85,0.8,0.05
+The refund never came through.,0.1,0.05,0.1,0.1,0.9
+Nice feel and usability.,0.95,0.9,0.85,0.8,0.05
+Still can’t use the platform.,0.1,0.05,0.1,0.1,0.9
+Very solid and quiet performance.,0.95,0.9,0.85,0.8,0.05
+Still no return instructions.,0.1,0.05,0.1,0.1,0.9
+Refined visuals and comfort.,0.95,0.9,0.85,0.8,0.05
+They never issued the refund.,0.1,0.05,0.1,0.1,0.9
+Effortless experience and setup.,0.95,0.9,0.85,0.8,0.05
+No response from anyone.,0.1,0.05,0.1,0.1,0.9
+"Elegant, fast and easy to use.",0.95,0.9,0.85,0.8,0.05
+They don’t reply to emails.,0.1,0.05,0.1,0.1,0.9
+Excellent product from start to end.,0.95,0.9,0.85,0.8,0.05
+Customer care doesn’t exist.,0.1,0.05,0.1,0.1,0.9
+Very smart layout and interface.,0.95,0.9,0.85,0.8,0.05
+I’m tired of contacting them.,0.1,0.05,0.1,0.1,0.9
+Beautiful visuals and logic.,0.95,0.9,0.85,0.8,0.05
+No one followed through.,0.1,0.05,0.1,0.1,0.9
+Really nice product build.,0.95,0.9,0.85,0.8,0.05
+Still no feedback or action.,0.1,0.05,0.1,0.1,0.9
+Clear structure and top usability.,0.95,0.9,0.85,0.8,0.05
+Worst handling of complaint.,0.1,0.05,0.1,0.1,0.9
+Smooth delivery and functionality.,0.95,0.9,0.85,0.8,0.05
+They never offered solutions.,0.1,0.05,0.1,0.1,0.9
+Quick setup and modern UI.,0.95,0.9,0.85,0.8,0.05
+Still unresolved from their side.,0.1,0.05,0.1,0.1,0.9
+Reliable visuals and flow.,0.95,0.9,0.85,0.8,0.05
+Still waiting for basic support.,0.1,0.05,0.1,0.1,0.9
+Professional product and look.,0.95,0.9,0.85,0.8,0.05
+Had to fix it all alone.,0.1,0.05,0.1,0.1,0.9
+Fast and logical layout.,0.95,0.9,0.85,0.8,0.05
+They didn’t assist me once.,0.1,0.05,0.1,0.1,0.9
+Awesome interface and visuals.,0.95,0.9,0.85,0.8,0.05
+No help received after days.,0.1,0.05,0.1,0.1,0.9
+Very intuitive and usable.,0.95,0.9,0.85,0.8,0.05
+Still no solution after escalation.,0.1,0.05,0.1,0.1,0.9
+Highly polished and refined.,0.95,0.9,0.85,0.8,0.05
+I gave up waiting for help.,0.1,0.05,0.1,0.1,0.9
+Clean and simple device.,0.95,0.9,0.85,0.8,0.05
+They didn’t bother to answer.,0.1,0.05,0.1,0.1,0.9
+Very elegant and efficient tool.,0.95,0.9,0.85,0.8,0.05
+Support didn’t provide any info.,0.1,0.05,0.1,0.1,0.9
+Great build and clear controls.,0.95,0.9,0.85,0.8,0.05
+They left my case unresolved.,0.1,0.05,0.1,0.1,0.9
+Super fast and beautiful experience.,0.95,0.9,0.85,0.8,0.05
+No support reached out to me.,0.1,0.05,0.1,0.1,0.9
+Very practical and intuitive.,0.95,0.9,0.85,0.8,0.05
+Nobody handled my request.,0.1,0.05,0.1,0.1,0.9
+Extremely smooth and stylish.,0.95,0.9,0.85,0.8,0.05
+Had to manage it all myself.,0.1,0.05,0.1,0.1,0.9
+Modern design and great feel.,0.95,0.9,0.85,0.8,0.05
+They didn’t try to follow up.,0.1,0.05,0.1,0.1,0.9
+Everything feels sleek and powerful.,0.95,0.9,0.85,0.8,0.05
+Still no reply from service.,0.1,0.05,0.1,0.1,0.9
+Perfectly balanced and functional.,0.95,0.9,0.85,0.8,0.05
+Worst case resolution ever.,0.1,0.05,0.1,0.1,0.9
+Very minimal and effective.,0.95,0.9,0.85,0.8,0.05
+No confirmation mail received.,0.1,0.05,0.1,0.1,0.9
+Excellent visuals and response time.,0.95,0.9,0.85,0.8,0.05
+Still can’t access anything.,0.1,0.05,0.1,0.1,0.9
+Clean and attractive interface.,0.95,0.9,0.85,0.8,0.05
+Their team was not helpful.,0.1,0.05,0.1,0.1,0.9
+Wonderful speed and quality.,0.95,0.9,0.85,0.8,0.05
+They didn’t fix the problem.,0.1,0.05,0.1,0.1,0.9
+Refined and quiet device.,0.95,0.9,0.85,0.8,0.05
+Zero answers from their end.,0.1,0.05,0.1,0.1,0.9
+Very organized and simple layout.,0.95,0.9,0.85,0.8,0.05
+Still unresolved on their part.,0.1,0.05,0.1,0.1,0.9
+High-end visuals and features.,0.95,0.9,0.85,0.8,0.05
+Support was a waste of time.,0.1,0.05,0.1,0.1,0.9
+Everything works perfectly.,0.95,0.9,0.85,0.8,0.05
+I’m done asking them for help.,0.1,0.05,0.1,0.1,0.9
+Great navigation and control.,0.95,0.9,0.85,0.8,0.05
+They never got back to me.,0.1,0.05,0.1,0.1,0.9
+Satisfying user experience.,0.95,0.9,0.85,0.8,0.05
+Still broken since first use.,0.1,0.05,0.1,0.1,0.9
+Excellent performance and clarity.,0.95,0.9,0.85,0.8,0.05
+Still no update after my complaint.,0.1,0.05,0.1,0.1,0.9
+Very elegant and well-polished.,0.95,0.9,0.85,0.8,0.05
+No one responded yet.,0.1,0.05,0.1,0.1,0.9
+Professional layout and function.,0.95,0.9,0.85,0.8,0.05
+Worst follow-up experience ever.,0.1,0.05,0.1,0.1,0.9
+Fast and highly responsive design.,0.95,0.9,0.85,0.8,0.05
+Still broken after multiple requests.,0.1,0.05,0.1,0.1,0.9
+Perfectly smooth interface and usage.,0.95,0.9,0.85,0.8,0.05
+Nothing has been fixed yet.,0.1,0.05,0.1,0.1,0.9
+Neat and clean performance.,0.95,0.9,0.85,0.8,0.05
+I’ve contacted them five times.,0.1,0.05,0.1,0.1,0.9
+Super intuitive and sleek feel.,0.95,0.9,0.85,0.8,0.05
+Still can’t access my account.,0.1,0.05,0.1,0.1,0.9
+Top visuals and great functionality.,0.95,0.9,0.85,0.8,0.05
+Customer care was unhelpful.,0.1,0.05,0.1,0.1,0.9
+Everything works seamlessly.,0.95,0.9,0.85,0.8,0.05
+No communication after request.,0.1,0.05,0.1,0.1,0.9
+Modern layout and high clarity.,0.95,0.9,0.85,0.8,0.05
+Still waiting for their action.,0.1,0.05,0.1,0.1,0.9
+Beautiful finish and solid control.,0.95,0.9,0.85,0.8,0.05
+No resolution was ever provided.,0.1,0.05,0.1,0.1,0.9
+"Efficient, smart and reliable.",0.95,0.9,0.85,0.8,0.05
+They didn’t try to resolve it.,0.1,0.05,0.1,0.1,0.9
+Quick setup and intuitive usage.,0.95,0.9,0.85,0.8,0.05
+Still facing all the same problems.,0.1,0.05,0.1,0.1,0.9
+User-friendly structure and layout.,0.95,0.9,0.85,0.8,0.05
+No follow-up was given.,0.1,0.05,0.1,0.1,0.9
+Highly functional and polished.,0.95,0.9,0.85,0.8,0.05
+Still experiencing issues.,0.1,0.05,0.1,0.1,0.9
+Great experience and layout.,0.95,0.9,0.85,0.8,0.05
+Nobody got back to me.,0.1,0.05,0.1,0.1,0.9
+Fluent interface and visuals.,0.95,0.9,0.85,0.8,0.05
+Still waiting on their support.,0.1,0.05,0.1,0.1,0.9
+"Responsive, quiet and powerful.",0.95,0.9,0.85,0.8,0.05
+Worst delay I’ve seen.,0.1,0.05,0.1,0.1,0.9
+Refined handling and design.,0.95,0.9,0.85,0.8,0.05
+Support keeps ignoring me.,0.1,0.05,0.1,0.1,0.9
+Awesome usability and speed.,0.95,0.9,0.85,0.8,0.05
+Couldn’t fix the issue at all.,0.1,0.05,0.1,0.1,0.9
+Very balanced and sleek.,0.95,0.9,0.85,0.8,0.05
+I’m still without a solution.,0.1,0.05,0.1,0.1,0.9
+Outstanding product and control.,0.95,0.9,0.85,0.8,0.05
+Nobody contacted me again.,0.1,0.05,0.1,0.1,0.9
+Top-level finish and precision.,0.95,0.9,0.85,0.8,0.05
+Still unresolved after escalation.,0.1,0.05,0.1,0.1,0.9
+Perfect blend of usability and visuals.,0.95,0.9,0.85,0.8,0.05
+They left my issue pending.,0.1,0.05,0.1,0.1,0.9
+Elegant and effortless interaction.,0.95,0.9,0.85,0.8,0.05
+Support hasn’t helped yet.,0.1,0.05,0.1,0.1,0.9
+Quick operation and fast results.,0.95,0.9,0.85,0.8,0.05
+Nobody reviewed my request.,0.1,0.05,0.1,0.1,0.9
+Great logic and responsiveness.,0.95,0.9,0.85,0.8,0.05
+Still having login problems.,0.1,0.05,0.1,0.1,0.9
+Satisfying visuals and flow.,0.95,0.9,0.85,0.8,0.05
+They closed my ticket early.,0.1,0.05,0.1,0.1,0.9
+Solid interface and quality.,0.95,0.9,0.85,0.8,0.05
+No feedback since my request.,0.1,0.05,0.1,0.1,0.9
+Superb efficiency and look.,0.95,0.9,0.85,0.8,0.05
+Still broken after promised help.,0.1,0.05,0.1,0.1,0.9
+Wonderful setup and usability.,0.95,0.9,0.85,0.8,0.05
+Still not resolved or escalated.,0.1,0.05,0.1,0.1,0.9
+Feels natural and organized.,0.95,0.9,0.85,0.8,0.05
+No technician ever replied.,0.1,0.05,0.1,0.1,0.9
+Flawless experience and speed.,0.95,0.9,0.85,0.8,0.05
+Worst experience contacting them.,0.1,0.05,0.1,0.1,0.9
+Polished flow and interaction.,0.95,0.9,0.85,0.8,0.05
+Still waiting since last week.,0.1,0.05,0.1,0.1,0.9
+Nice handling and design.,0.95,0.9,0.85,0.8,0.05
+No progress at all made.,0.1,0.05,0.1,0.1,0.9
+Everything works perfectly.,0.95,0.9,0.85,0.8,0.05
+I was completely ignored.,0.1,0.05,0.1,0.1,0.9
+Very responsive and easy.,0.95,0.9,0.85,0.8,0.05
+Couldn’t get help so far.,0.1,0.05,0.1,0.1,0.9
+Excellent visuals and system.,0.95,0.9,0.85,0.8,0.05
+Still unresolved case.,0.1,0.05,0.1,0.1,0.9
+Very organized and precise.,0.95,0.9,0.85,0.8,0.05
+I’m tired of emailing support.,0.1,0.05,0.1,0.1,0.9
+Wonderful execution and logic.,0.95,0.9,0.85,0.8,0.05
+Support sent no real solution.,0.1,0.05,0.1,0.1,0.9
+Professional product and control.,0.95,0.9,0.85,0.8,0.05
+No attention to my concern.,0.1,0.05,0.1,0.1,0.9
+Refined handling and layout.,0.95,0.9,0.85,0.8,0.05
+They missed every detail.,0.1,0.05,0.1,0.1,0.9
+Amazing finish and feel.,0.95,0.9,0.85,0.8,0.05
+They didn’t respond in time.,0.1,0.05,0.1,0.1,0.9
+"Fast, fluid and functional system.",0.95,0.9,0.85,0.8,0.05
+Still no fix for my problem.,0.1,0.05,0.1,0.1,0.9
+Top performance and polish.,0.95,0.9,0.85,0.8,0.05
+No resolution even after calls.,0.1,0.05,0.1,0.1,0.9
+Well-crafted visuals and interface.,0.95,0.9,0.85,0.8,0.05
+Still having the same issue.,0.1,0.05,0.1,0.1,0.9
+Easy control and fast layout.,0.95,0.9,0.85,0.8,0.05
+I never heard from them again.,0.1,0.05,0.1,0.1,0.9
+Neat build and functionality.,0.95,0.9,0.85,0.8,0.05
+Still unresolved and ignored.,0.1,0.05,0.1,0.1,0.9
+Very reliable and efficient.,0.95,0.9,0.85,0.8,0.05
+Their support was ineffective.,0.1,0.05,0.1,0.1,0.9
+Feels premium and responsive.,0.95,0.9,0.85,0.8,0.05
+Still stuck with the issue.,0.1,0.05,0.1,0.1,0.9
